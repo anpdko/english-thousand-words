@@ -9,12 +9,15 @@ function App() {
   const [indexVoice, setIndexVoice] = useState(0)  
   const [idWord, setIdWord] = useState('')  
   const [status, setStatus] = useState('')
+  const [voices, setVoices] = useState([])
   const tts = window.speechSynthesis;
-  let voices = tts.getVoices()
-  voices = voices.filter(voice =>{
-    return voice.lang.includes('en')
-  })
-  console.log(voices)
+
+  useEffect(()=>{
+    let voices = tts.getVoices()
+    setVoices(voices.filter(voice =>{
+      return voice.lang.includes('en')
+    }))
+  }, [tts])
 
   const countWords = 8
 
@@ -45,7 +48,9 @@ function App() {
   const voice = async (word) =>{
     const toSpeak = new SpeechSynthesisUtterance(word)
     toSpeak.lang = 'en-US'
+    toSpeak.rate = 0.7
     toSpeak.voice = voices[indexVoice]
+    console.log(toSpeak)
     tts.speak(toSpeak)
   }
 
@@ -125,6 +130,7 @@ function App() {
             Дальше
         </button>
       </div>
+
     </div>
   );
 }
