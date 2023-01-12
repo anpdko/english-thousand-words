@@ -1,0 +1,6002 @@
+[
+   {
+       "id": "0",
+       "eng": "as",
+       "tran": "æz",
+       "rus": "как"
+   },
+   {
+       "id": "1",
+       "eng": "I",
+       "tran": "aɪ",
+       "rus": "я"
+   },
+   {
+       "id": "2",
+       "eng": "his",
+       "tran": "hɪz",
+       "rus": "его"
+   },
+   {
+       "id": "3",
+       "eng": "that",
+       "tran": "ðæt",
+       "rus": "что / тот"
+   },
+   {
+       "id": "4",
+       "eng": "he",
+       "tran": "hiː",
+       "rus": "он"
+   },
+   {
+       "id": "5",
+       "eng": "was",
+       "tran": "wɒz",
+       "rus": "был"
+   },
+   {
+       "id": "6",
+       "eng": "for",
+       "tran": "fɔː r",
+       "rus": "для"
+   },
+   {
+       "id": "7",
+       "eng": "on",
+       "tran": "ɒn",
+       "rus": "на"
+   },
+   {
+       "id": "8",
+       "eng": "are",
+       "tran": "ɑː r",
+       "rus": "являются"
+   },
+   {
+       "id": "9",
+       "eng": "with",
+       "tran": "wɪð",
+       "rus": "с"
+   },
+   {
+       "id": "10",
+       "eng": "they",
+       "tran": "ðeɪ",
+       "rus": "они"
+   },
+   {
+       "id": "11",
+       "eng": "be",
+       "tran": "biː",
+       "rus": "быть"
+   },
+   {
+       "id": "12",
+       "eng": "at",
+       "tran": "ət",
+       "rus": "на"
+   },
+   {
+       "id": "13",
+       "eng": "one",
+       "tran": "wʌn",
+       "rus": "один"
+   },
+   {
+       "id": "14",
+       "eng": "have",
+       "tran": "hæv",
+       "rus": "иметь"
+   },
+   {
+       "id": "15",
+       "eng": "this",
+       "tran": "ðɪs",
+       "rus": "это"
+   },
+   {
+       "id": "16",
+       "eng": "from",
+       "tran": "frɒm",
+       "rus": "из"
+   },
+   {
+       "id": "17",
+       "eng": "by",
+       "tran": "baɪ",
+       "rus": "от"
+   },
+   {
+       "id": "18",
+       "eng": "hot",
+       "tran": "hɒt",
+       "rus": "горячий / жарко"
+   },
+   {
+       "id": "19",
+       "eng": "word",
+       "tran": "wɜːd",
+       "rus": "слово"
+   },
+   {
+       "id": "20",
+       "eng": "but",
+       "tran": "bʌt",
+       "rus": "но"
+   },
+   {
+       "id": "21",
+       "eng": "what",
+       "tran": "wɒt",
+       "rus": "что"
+   },
+   {
+       "id": "22",
+       "eng": "some",
+       "tran": "sʌm",
+       "rus": "некоторый"
+   },
+   {
+       "id": "23",
+       "eng": "is",
+       "tran": "ɪz",
+       "rus": "является"
+   },
+   {
+       "id": "24",
+       "eng": "it",
+       "tran": "ɪt",
+       "rus": "это"
+   },
+   {
+       "id": "25",
+       "eng": "you",
+       "tran": "juː",
+       "rus": "ты"
+   },
+   {
+       "id": "26",
+       "eng": "or",
+       "tran": "ɔː r",
+       "rus": "или"
+   },
+   {
+       "id": "27",
+       "eng": "had",
+       "tran": "hæd",
+       "rus": "имел"
+   },
+   {
+       "id": "29",
+       "eng": "of",
+       "tran": "əv",
+       "rus": "из / о"
+   },
+   {
+       "id": "30",
+       "eng": "to",
+       "tran": "tuː",
+       "rus": "в / к"
+   },
+   {
+       "id": "31",
+       "eng": "and",
+       "tran": "ænd",
+       "rus": "и"
+   },
+   {
+       "id": "33",
+       "eng": "in",
+       "tran": "ɪn",
+       "rus": "в"
+   },
+   {
+       "id": "34",
+       "eng": "we",
+       "tran": "wiː",
+       "rus": "мы"
+   },
+   {
+       "id": "35",
+       "eng": "can",
+       "tran": "kæn",
+       "rus": "может"
+   },
+   {
+       "id": "36",
+       "eng": "out",
+       "tran": "aʊt",
+       "rus": "из / вне"
+   },
+   {
+       "id": "37",
+       "eng": "other",
+       "tran": "ˈʌð.ə r",
+       "rus": "другой"
+   },
+   {
+       "id": "38",
+       "eng": "were",
+       "tran": "wɜː r",
+       "rus": "были"
+   },
+   {
+       "id": "39",
+       "eng": "which",
+       "tran": "wɪtʃ",
+       "rus": "который"
+   },
+   {
+       "id": "40",
+       "eng": "do",
+       "tran": "duː",
+       "rus": "делать"
+   },
+   {
+       "id": "41",
+       "eng": "their",
+       "tran": "ðeə r",
+       "rus": "их"
+   },
+   {
+       "id": "42",
+       "eng": "time",
+       "tran": "taɪm",
+       "rus": "время"
+   },
+   {
+       "id": "43",
+       "eng": "if",
+       "tran": "ɪf",
+       "rus": "если"
+   },
+   {
+       "id": "44",
+       "eng": "will",
+       "tran": "wɪl",
+       "rus": "будет"
+   },
+   {
+       "id": "45",
+       "eng": "how",
+       "tran": "haʊ",
+       "rus": "как"
+   },
+   {
+       "id": "46",
+       "eng": "said",
+       "tran": "sed",
+       "rus": "говорить"
+   },
+   {
+       "id": "48",
+       "eng": "each",
+       "tran": "iːtʃ",
+       "rus": "каждый"
+   },
+   {
+       "id": "49",
+       "eng": "tell",
+       "tran": "tel",
+       "rus": "говорить"
+   },
+   {
+       "id": "50",
+       "eng": "does",
+       "tran": "dʌz",
+       "rus": "делает"
+   },
+   {
+       "id": "51",
+       "eng": "set",
+       "tran": "set",
+       "rus": "задавать / комплект"
+   },
+   {
+       "id": "52",
+       "eng": "three",
+       "tran": "θriː",
+       "rus": "три"
+   },
+   {
+       "id": "53",
+       "eng": "want",
+       "tran": "wɒnt",
+       "rus": "хотеть"
+   },
+   {
+       "id": "54",
+       "eng": "air",
+       "tran": "eə r",
+       "rus": "воздух"
+   },
+   {
+       "id": "55",
+       "eng": "well",
+       "tran": "wel",
+       "rus": "хорошо"
+   },
+   {
+       "id": "56",
+       "eng": "also",
+       "tran": "ˈɔːl.səʊ",
+       "rus": "также"
+   },
+   {
+       "id": "57",
+       "eng": "play",
+       "tran": "pleɪ",
+       "rus": "играть"
+   },
+   {
+       "id": "58",
+       "eng": "small",
+       "tran": "smɔːl",
+       "rus": "маленький"
+   },
+   {
+       "id": "59",
+       "eng": "end",
+       "tran": "end",
+       "rus": "конец"
+   },
+   {
+       "id": "60",
+       "eng": "put",
+       "tran": "pʊt",
+       "rus": "ставить"
+   },
+   {
+       "id": "61",
+       "eng": "home",
+       "tran": "həʊm",
+       "rus": "дом"
+   },
+   {
+       "id": "62",
+       "eng": "read",
+       "tran": "riːd",
+       "rus": "читать"
+   },
+   {
+       "id": "63",
+       "eng": "hand",
+       "tran": "hænd",
+       "rus": "рука"
+   },
+   {
+       "id": "64",
+       "eng": "port",
+       "tran": "pɔːt",
+       "rus": "порт"
+   },
+   {
+       "id": "65",
+       "eng": "large",
+       "tran": "lɑːdʒ",
+       "rus": "большой"
+   },
+   {
+       "id": "66",
+       "eng": "spell",
+       "tran": "spel",
+       "rus": "читать по буквам / орфография"
+   },
+   {
+       "id": "67",
+       "eng": "add",
+       "tran": "æd",
+       "rus": "добавлять"
+   },
+   {
+       "id": "68",
+       "eng": "even",
+       "tran": "ˈiː.v ə n",
+       "rus": "даже"
+   },
+   {
+       "id": "69",
+       "eng": "land",
+       "tran": "lænd",
+       "rus": "земля"
+   },
+   {
+       "id": "70",
+       "eng": "here",
+       "tran": "hɪə r",
+       "rus": "здесь"
+   },
+   {
+       "id": "71",
+       "eng": "must",
+       "tran": "mʌst",
+       "rus": "должен"
+   },
+   {
+       "id": "72",
+       "eng": "big",
+       "tran": "bɪɡ",
+       "rus": "большой"
+   },
+   {
+       "id": "73",
+       "eng": "high",
+       "tran": "haɪ",
+       "rus": "высокий"
+   },
+   {
+       "id": "74",
+       "eng": "such",
+       "tran": "sʌtʃ",
+       "rus": "такой"
+   },
+   {
+       "id": "75",
+       "eng": "follow",
+       "tran": "ˈfɒl.əʊ",
+       "rus": "следовать"
+   },
+   {
+       "id": "76",
+       "eng": "act",
+       "tran": "ækt",
+       "rus": "действовать"
+   },
+   {
+       "id": "77",
+       "eng": "why",
+       "tran": "waɪ",
+       "rus": "почему"
+   },
+   {
+       "id": "78",
+       "eng": "ask",
+       "tran": "ɑːsk",
+       "rus": "спрашивать"
+   },
+   {
+       "id": "79",
+       "eng": "men",
+       "tran": "men",
+       "rus": "люди"
+   },
+   {
+       "id": "80",
+       "eng": "change",
+       "tran": "tʃeɪndʒ",
+       "rus": "менять"
+   },
+   {
+       "id": "81",
+       "eng": "went",
+       "tran": "went",
+       "rus": "отправился"
+   },
+   {
+       "id": "82",
+       "eng": "light",
+       "tran": "laɪt",
+       "rus": "свет / легкий"
+   },
+   {
+       "id": "83",
+       "eng": "kind",
+       "tran": "kaɪnd",
+       "rus": "добрый / разновидность"
+   },
+   {
+       "id": "84",
+       "eng": "off",
+       "tran": "ɒf",
+       "rus": "от / выключенный"
+   },
+   {
+       "id": "85",
+       "eng": "need",
+       "tran": "niːd",
+       "rus": "необходимость"
+   },
+   {
+       "id": "86",
+       "eng": "house",
+       "tran": "haʊs",
+       "rus": "дом"
+   },
+   {
+       "id": "87",
+       "eng": "picture",
+       "tran": "ˈpɪk.tʃə r",
+       "rus": "картина / фото"
+   },
+   {
+       "id": "88",
+       "eng": "try",
+       "tran": "traɪ",
+       "rus": "пробовать / пытаться"
+   },
+   {
+       "id": "89",
+       "eng": "us",
+       "tran": "ʌs",
+       "rus": "нас"
+   },
+   {
+       "id": "90",
+       "eng": "again",
+       "tran": "əˈɡen",
+       "rus": "снова"
+   },
+   {
+       "id": "91",
+       "eng": "animal",
+       "tran": "ˈæn.ɪ.məl",
+       "rus": "животное"
+   },
+   {
+       "id": "92",
+       "eng": "point",
+       "tran": "pɔɪnt",
+       "rus": "точка"
+   },
+   {
+       "id": "93",
+       "eng": "mother",
+       "tran": "ˈmʌð.ə r",
+       "rus": "мать"
+   },
+   {
+       "id": "94",
+       "eng": "world",
+       "tran": "wɜːld",
+       "rus": "мир"
+   },
+   {
+       "id": "95",
+       "eng": "near",
+       "tran": "nɪə r",
+       "rus": "близко"
+   },
+   {
+       "id": "96",
+       "eng": "build",
+       "tran": "bɪld",
+       "rus": "строить"
+   },
+   {
+       "id": "97",
+       "eng": "self",
+       "tran": "self",
+       "rus": "себя"
+   },
+   {
+       "id": "98",
+       "eng": "earth",
+       "tran": "ɜːθ",
+       "rus": "земля"
+   },
+   {
+       "id": "99",
+       "eng": "father",
+       "tran": "ˈfɑː.ðə r",
+       "rus": "отец"
+   },
+   {
+       "id": "100",
+       "eng": "any",
+       "tran": "ˈen.i",
+       "rus": "любой"
+   },
+   {
+       "id": "101",
+       "eng": "new",
+       "tran": "njuː",
+       "rus": "новый"
+   },
+   {
+       "id": "102",
+       "eng": "work",
+       "tran": "wɜːk",
+       "rus": "работа"
+   },
+   {
+       "id": "103",
+       "eng": "part",
+       "tran": "pɑːt",
+       "rus": "часть"
+   },
+   {
+       "id": "104",
+       "eng": "take",
+       "tran": "teɪk",
+       "rus": "брать"
+   },
+   {
+       "id": "105",
+       "eng": "get",
+       "tran": "get",
+       "rus": "получать"
+   },
+   {
+       "id": "106",
+       "eng": "place",
+       "tran": "pleɪs",
+       "rus": "место"
+   },
+   {
+       "id": "107",
+       "eng": "made",
+       "tran": "meɪd",
+       "rus": "сделать"
+   },
+   {
+       "id": "108",
+       "eng": "live",
+       "tran": "lɪv",
+       "rus": "жить"
+   },
+   {
+       "id": "109",
+       "eng": "where",
+       "tran": "weə r",
+       "rus": "где"
+   },
+   {
+       "id": "110",
+       "eng": "after",
+       "tran": "ˈɑːf.tə r",
+       "rus": "после"
+   },
+   {
+       "id": "111",
+       "eng": "back",
+       "tran": "bæk",
+       "rus": "назад"
+   },
+   {
+       "id": "112",
+       "eng": "little",
+       "tran": "ˈlɪt.əl",
+       "rus": "немного"
+   },
+   {
+       "id": "113",
+       "eng": "only",
+       "tran": "ˈəʊn.li",
+       "rus": "только"
+   },
+   {
+       "id": "114",
+       "eng": "round",
+       "tran": "raʊnd",
+       "rus": "круглый / вокруг"
+   },
+   {
+       "id": "115",
+       "eng": "man",
+       "tran": "mæn",
+       "rus": "мужчина"
+   },
+   {
+       "id": "116",
+       "eng": "year",
+       "tran": "jɪə r",
+       "rus": "год"
+   },
+   {
+       "id": "117",
+       "eng": "came",
+       "tran": "keɪm",
+       "rus": "пришел"
+   },
+   {
+       "id": "118",
+       "eng": "show",
+       "tran": "ʃəʊ",
+       "rus": "показывать"
+   },
+   {
+       "id": "119",
+       "eng": "every",
+       "tran": "ˈev.ri",
+       "rus": "каждый"
+   },
+   {
+       "id": "120",
+       "eng": "good",
+       "tran": "ɡʊd",
+       "rus": "хороший"
+   },
+   {
+       "id": "121",
+       "eng": "me",
+       "tran": "miː",
+       "rus": "мне"
+   },
+   {
+       "id": "122",
+       "eng": "give",
+       "tran": "ɡɪv",
+       "rus": "давать"
+   },
+   {
+       "id": "123",
+       "eng": "our",
+       "tran": "aʊə r",
+       "rus": "наш"
+   },
+   {
+       "id": "124",
+       "eng": "under",
+       "tran": "ˈʌn.də r",
+       "rus": "под"
+   },
+   {
+       "id": "125",
+       "eng": "name",
+       "tran": "neɪm",
+       "rus": "имя"
+   },
+   {
+       "id": "126",
+       "eng": "very",
+       "tran": "ˈver.i",
+       "rus": "очень"
+   },
+   {
+       "id": "127",
+       "eng": "through",
+       "tran": "θruː",
+       "rus": "через"
+   },
+   {
+       "id": "128",
+       "eng": "just",
+       "tran": "dʒʌst",
+       "rus": "только / просто"
+   },
+   {
+       "id": "129",
+       "eng": "form",
+       "tran": "fɔːm",
+       "rus": "вид, форма / образовывать"
+   },
+   {
+       "id": "130",
+       "eng": "sentence",
+       "tran": "ˈsen.təns",
+       "rus": "предложение"
+   },
+   {
+       "id": "131",
+       "eng": "great",
+       "tran": "ɡreɪt",
+       "rus": "отличный"
+   },
+   {
+       "id": "132",
+       "eng": "think",
+       "tran": "θɪŋk",
+       "rus": "думать"
+   },
+   {
+       "id": "133",
+       "eng": "say",
+       "tran": "seɪ",
+       "rus": "говорить"
+   },
+   {
+       "id": "134",
+       "eng": "help",
+       "tran": "help",
+       "rus": "помогать, помощь"
+   },
+   {
+       "id": "135",
+       "eng": "low",
+       "tran": "ləʊ",
+       "rus": "низкий"
+   },
+   {
+       "id": "136",
+       "eng": "line",
+       "tran": "laɪn",
+       "rus": "линия, черта"
+   },
+   {
+       "id": "137",
+       "eng": "differ",
+       "tran": "ˈdɪf.ə r",
+       "rus": "отличаться"
+   },
+   {
+       "id": "138",
+       "eng": "turn",
+       "tran": "tɜːn",
+       "rus": "поворачивать"
+   },
+   {
+       "id": "139",
+       "eng": "cause",
+       "tran": "kɔːz",
+       "rus": "причина"
+   },
+   {
+       "id": "140",
+       "eng": "much",
+       "tran": "mʌtʃ",
+       "rus": "много"
+   },
+   {
+       "id": "141",
+       "eng": "mean",
+       "tran": "miːn",
+       "rus": "значить / подлый / средний"
+   },
+   {
+       "id": "142",
+       "eng": "before",
+       "tran": "bɪˈfɔː r",
+       "rus": "до"
+   },
+   {
+       "id": "143",
+       "eng": "move",
+       "tran": "muːv",
+       "rus": "двигать"
+   },
+   {
+       "id": "144",
+       "eng": "right",
+       "tran": "raɪt",
+       "rus": "право / верный"
+   },
+   {
+       "id": "145",
+       "eng": "boy",
+       "tran": "bɔɪ",
+       "rus": "мальчик"
+   },
+   {
+       "id": "146",
+       "eng": "old",
+       "tran": "əʊld",
+       "rus": "старый"
+   },
+   {
+       "id": "147",
+       "eng": "too",
+       "tran": "tuː",
+       "rus": "тоже"
+   },
+   {
+       "id": "148",
+       "eng": "same",
+       "tran": "seɪm",
+       "rus": "также"
+   },
+   {
+       "id": "149",
+       "eng": "she",
+       "tran": "ʃiː",
+       "rus": "она"
+   },
+   {
+       "id": "150",
+       "eng": "all",
+       "tran": "ɔːl",
+       "rus": "все"
+   },
+   {
+       "id": "151",
+       "eng": "there",
+       "tran": "ðeə r",
+       "rus": "там"
+   },
+   {
+       "id": "152",
+       "eng": "when",
+       "tran": "wen",
+       "rus": "когда"
+   },
+   {
+       "id": "153",
+       "eng": "up",
+       "tran": "ʌp",
+       "rus": "вверх / подниматься"
+   },
+   {
+       "id": "154",
+       "eng": "use",
+       "tran": "juːz",
+       "rus": "использовать"
+   },
+   {
+       "id": "155",
+       "eng": "your",
+       "tran": "jɔː r",
+       "rus": "твой"
+   },
+   {
+       "id": "156",
+       "eng": "way",
+       "tran": "weɪ",
+       "rus": "путь"
+   },
+   {
+       "id": "157",
+       "eng": "about",
+       "tran": "əˈbaʊt",
+       "rus": "о"
+   },
+   {
+       "id": "158",
+       "eng": "many",
+       "tran": "ˈmen.i",
+       "rus": "много"
+   },
+   {
+       "id": "159",
+       "eng": "then",
+       "tran": "ðen",
+       "rus": "затем"
+   },
+   {
+       "id": "160",
+       "eng": "them",
+       "tran": "ðem",
+       "rus": "их"
+   },
+   {
+       "id": "161",
+       "eng": "write",
+       "tran": "raɪt",
+       "rus": "писать"
+   },
+   {
+       "id": "162",
+       "eng": "would",
+       "tran": "wʊd",
+       "rus": "бы / было бы"
+   },
+   {
+       "id": "163",
+       "eng": "like",
+       "tran": "laɪk",
+       "rus": "нравиться"
+   },
+   {
+       "id": "164",
+       "eng": "so",
+       "tran": "səʊ",
+       "rus": "так"
+   },
+   {
+       "id": "165",
+       "eng": "these",
+       "tran": "ðiːz",
+       "rus": "эти"
+   },
+   {
+       "id": "166",
+       "eng": "her",
+       "tran": "hɜː r",
+       "rus": "ее"
+   },
+   {
+       "id": "167",
+       "eng": "long",
+       "tran": "lɒŋ",
+       "rus": "долго / длинный"
+   },
+   {
+       "id": "168",
+       "eng": "make",
+       "tran": "meɪk",
+       "rus": "делать"
+   },
+   {
+       "id": "169",
+       "eng": "thing",
+       "tran": "θɪŋ",
+       "rus": "вещь"
+   },
+   {
+       "id": "170",
+       "eng": "see",
+       "tran": "siː",
+       "rus": "видеть"
+   },
+   {
+       "id": "171",
+       "eng": "him",
+       "tran": "hɪm",
+       "rus": "его"
+   },
+   {
+       "id": "172",
+       "eng": "two",
+       "tran": "tuː",
+       "rus": "два / двое"
+   },
+   {
+       "id": "173",
+       "eng": "has",
+       "tran": "hæz",
+       "rus": "имеет"
+   },
+   {
+       "id": "174",
+       "eng": "look",
+       "tran": "lʊk",
+       "rus": "смотреть / взгляд"
+   },
+   {
+       "id": "175",
+       "eng": "more",
+       "tran": "mɔː r",
+       "rus": "больше"
+   },
+   {
+       "id": "176",
+       "eng": "day",
+       "tran": "deɪ",
+       "rus": "день"
+   },
+   {
+       "id": "177",
+       "eng": "could",
+       "tran": "kʊd",
+       "rus": "мог"
+   },
+   {
+       "id": "178",
+       "eng": "go",
+       "tran": "ɡəʊ",
+       "rus": "идти"
+   },
+   {
+       "id": "179",
+       "eng": "come",
+       "tran": "kʌm",
+       "rus": "приходить"
+   },
+   {
+       "id": "180",
+       "eng": "did",
+       "tran": "dɪd",
+       "rus": "сделал"
+   },
+   {
+       "id": "181",
+       "eng": "number",
+       "tran": "ˈnʌm.bə r",
+       "rus": "номер"
+   },
+   {
+       "id": "182",
+       "eng": "sound",
+       "tran": "saʊnd",
+       "rus": "звук"
+   },
+   {
+       "id": "183",
+       "eng": "no",
+       "tran": "nəʊ",
+       "rus": "нет"
+   },
+   {
+       "id": "184",
+       "eng": "most",
+       "tran": "məʊst",
+       "rus": "самый / большинство"
+   },
+   {
+       "id": "185",
+       "eng": "people",
+       "tran": "ˈpiː.p ə l",
+       "rus": "люди"
+   },
+   {
+       "id": "186",
+       "eng": "my",
+       "tran": "maɪ",
+       "rus": "мой"
+   },
+   {
+       "id": "187",
+       "eng": "over",
+       "tran": "ˈəʊ.və r",
+       "rus": "над"
+   },
+   {
+       "id": "188",
+       "eng": "know",
+       "tran": "nəʊ",
+       "rus": "знать"
+   },
+   {
+       "id": "189",
+       "eng": "water",
+       "tran": "ˈwɔː.tə r",
+       "rus": "вода"
+   },
+   {
+       "id": "190",
+       "eng": "than",
+       "tran": "ðæn",
+       "rus": "чем"
+   },
+   {
+       "id": "191",
+       "eng": "call",
+       "tran": "kɔːl",
+       "rus": "звонить / звонок"
+   },
+   {
+       "id": "192",
+       "eng": "first",
+       "tran": "ˈfɜːst",
+       "rus": "первый"
+   },
+   {
+       "id": "193",
+       "eng": "who",
+       "tran": "huː",
+       "rus": "кто"
+   },
+   {
+       "id": "194",
+       "eng": "may",
+       "tran": "meɪ",
+       "rus": "может"
+   },
+   {
+       "id": "195",
+       "eng": "down",
+       "tran": "daʊn",
+       "rus": "вниз"
+   },
+   {
+       "id": "196",
+       "eng": "side",
+       "tran": "saɪd",
+       "rus": "сторона"
+   },
+   {
+       "id": "197",
+       "eng": "been",
+       "tran": "biːn",
+       "rus": "был"
+   },
+   {
+       "id": "198",
+       "eng": "now",
+       "tran": "naʊ",
+       "rus": "сейчас"
+   },
+   {
+       "id": "199",
+       "eng": "find",
+       "tran": "faɪnd",
+       "rus": "найти"
+   },
+   {
+       "id": "200",
+       "eng": "head",
+       "tran": "hed",
+       "rus": "голова"
+   },
+   {
+       "id": "201",
+       "eng": "stand",
+       "tran": "stænd",
+       "rus": "стоять"
+   },
+   {
+       "id": "202",
+       "eng": "own",
+       "tran": "əʊn",
+       "rus": "свой / владеть"
+   },
+   {
+       "id": "203",
+       "eng": "page",
+       "tran": "peɪdʒ",
+       "rus": "страница"
+   },
+   {
+       "id": "204",
+       "eng": "should",
+       "tran": "ʃʊd",
+       "rus": "должен"
+   },
+   {
+       "id": "205",
+       "eng": "country",
+       "tran": "ˈkʌn.tri",
+       "rus": "страна"
+   },
+   {
+       "id": "206",
+       "eng": "found",
+       "tran": "faʊnd",
+       "rus": "найденный"
+   },
+   {
+       "id": "207",
+       "eng": "answer",
+       "tran": "ˈæn·sər",
+       "rus": "ответ / отвечать"
+   },
+   {
+       "id": "208",
+       "eng": "school",
+       "tran": "skuːl",
+       "rus": "школа"
+   },
+   {
+       "id": "209",
+       "eng": "grow",
+       "tran": "ɡrəʊ",
+       "rus": "расти"
+   },
+   {
+       "id": "210",
+       "eng": "study",
+       "tran": "ˈstʌd.i",
+       "rus": "изучать"
+   },
+   {
+       "id": "211",
+       "eng": "still",
+       "tran": "stɪl",
+       "rus": "все еще"
+   },
+   {
+       "id": "212",
+       "eng": "learn",
+       "tran": "lɜːn",
+       "rus": "учиться"
+   },
+   {
+       "id": "213",
+       "eng": "plant",
+       "tran": "plɑːnt",
+       "rus": "растение / сажать"
+   },
+   {
+       "id": "214",
+       "eng": "cover",
+       "tran": "ˈkʌv.ə r",
+       "rus": "накрывать / обложка"
+   },
+   {
+       "id": "215",
+       "eng": "food",
+       "tran": "fuːd",
+       "rus": "еда"
+   },
+   {
+       "id": "216",
+       "eng": "sun",
+       "tran": "sʌn",
+       "rus": "солнце"
+   },
+   {
+       "id": "217",
+       "eng": "four",
+       "tran": "fɔː r",
+       "rus": "четыре"
+   },
+   {
+       "id": "218",
+       "eng": "between",
+       "tran": "bɪˈtwiːn",
+       "rus": "между"
+   },
+   {
+       "id": "219",
+       "eng": "state",
+       "tran": "steɪt",
+       "rus": "состояние, государство, штат"
+   },
+   {
+       "id": "220",
+       "eng": "keep",
+       "tran": "kiːp",
+       "rus": "держать, продолжать"
+   },
+   {
+       "id": "221",
+       "eng": "eye",
+       "tran": "aɪ",
+       "rus": "глаз"
+   },
+   {
+       "id": "222",
+       "eng": "never",
+       "tran": "ˈnev.ə r",
+       "rus": "никогда"
+   },
+   {
+       "id": "223",
+       "eng": "last",
+       "tran": "lɑːst",
+       "rus": "последний"
+   },
+   {
+       "id": "224",
+       "eng": "let",
+       "tran": "let",
+       "rus": "позволять"
+   },
+   {
+       "id": "225",
+       "eng": "thought",
+       "tran": "θɔːt",
+       "rus": "мысль / думал"
+   },
+   {
+       "id": "226",
+       "eng": "city",
+       "tran": "ˈsɪt.i",
+       "rus": "город"
+   },
+   {
+       "id": "227",
+       "eng": "tree",
+       "tran": "triː",
+       "rus": "дерево"
+   },
+   {
+       "id": "228",
+       "eng": "cross",
+       "tran": "krɒs",
+       "rus": "пересекать / крест"
+   },
+   {
+       "id": "229",
+       "eng": "farm",
+       "tran": "fɑːm",
+       "rus": "ферма"
+   },
+   {
+       "id": "230",
+       "eng": "hard",
+       "tran": "hɑːd",
+       "rus": "тяжелый / твердый"
+   },
+   {
+       "id": "231",
+       "eng": "start",
+       "tran": "stɑːt",
+       "rus": "начинать"
+   },
+   {
+       "id": "232",
+       "eng": "might",
+       "tran": "maɪt",
+       "rus": "может быть / мощь"
+   },
+   {
+       "id": "233",
+       "eng": "story",
+       "tran": "ˈstɔː.ri",
+       "rus": "история"
+   },
+   {
+       "id": "234",
+       "eng": "saw",
+       "tran": "sɔː",
+       "rus": "увидел / пила"
+   },
+   {
+       "id": "235",
+       "eng": "far",
+       "tran": "fɑː r",
+       "rus": "далеко"
+   },
+   {
+       "id": "236",
+       "eng": "sea",
+       "tran": "siː",
+       "rus": "море"
+   },
+   {
+       "id": "237",
+       "eng": "draw",
+       "tran": "drɔː",
+       "rus": "рисовать"
+   },
+   {
+       "id": "238",
+       "eng": "left",
+       "tran": "left",
+       "rus": "лево / оставил"
+   },
+   {
+       "id": "239",
+       "eng": "late",
+       "tran": "leɪt",
+       "rus": "поздно"
+   },
+   {
+       "id": "240",
+       "eng": "run",
+       "tran": "rʌn",
+       "rus": "бежать"
+   },
+   {
+       "id": "241",
+       "eng": "don’t",
+       "tran": "dəʊnt",
+       "rus": "не"
+   },
+   {
+       "id": "242",
+       "eng": "while",
+       "tran": "waɪl",
+       "rus": "в то время, как"
+   },
+   {
+       "id": "243",
+       "eng": "press",
+       "tran": "pres",
+       "rus": "нажимать / давить"
+   },
+   {
+       "id": "244",
+       "eng": "close",
+       "tran": "kləʊz",
+       "rus": "близко / закрывать"
+   },
+   {
+       "id": "245",
+       "eng": "night",
+       "tran": "naɪt",
+       "rus": "ночь"
+   },
+   {
+       "id": "246",
+       "eng": "real",
+       "tran": "rɪəl",
+       "rus": "реальный"
+   },
+   {
+       "id": "247",
+       "eng": "life",
+       "tran": "laɪf",
+       "rus": "жизнь"
+   },
+   {
+       "id": "248",
+       "eng": "few",
+       "tran": "fjuː",
+       "rus": "несколько"
+   },
+   {
+       "id": "249",
+       "eng": "north",
+       "tran": "nɔːθ",
+       "rus": "север"
+   },
+   {
+       "id": "250",
+       "eng": "book",
+       "tran": "bʊk",
+       "rus": "книга"
+   },
+   {
+       "id": "251",
+       "eng": "carry",
+       "tran": "ˈkær.i",
+       "rus": "нести"
+   },
+   {
+       "id": "252",
+       "eng": "took",
+       "tran": "tʊk",
+       "rus": "взял"
+   },
+   {
+       "id": "253",
+       "eng": "science",
+       "tran": "ˈsaɪ.əns",
+       "rus": "наука"
+   },
+   {
+       "id": "254",
+       "eng": "eat",
+       "tran": "iːt",
+       "rus": "есть"
+   },
+   {
+       "id": "255",
+       "eng": "room",
+       "tran": "ruːm",
+       "rus": "комната"
+   },
+   {
+       "id": "256",
+       "eng": "friend",
+       "tran": "frend",
+       "rus": "друг"
+   },
+   {
+       "id": "257",
+       "eng": "began",
+       "tran": "bɪˈɡæn",
+       "rus": "началось"
+   },
+   {
+       "id": "258",
+       "eng": "idea",
+       "tran": "aɪˈdɪə",
+       "rus": "идея"
+   },
+   {
+       "id": "259",
+       "eng": "fish",
+       "tran": "fɪʃ",
+       "rus": "рыба"
+   },
+   {
+       "id": "260",
+       "eng": "mountain",
+       "tran": "ˈmaʊn.tɪn",
+       "rus": "гора"
+   },
+   {
+       "id": "261",
+       "eng": "stop",
+       "tran": "stɒp",
+       "rus": "остановка / останавливать"
+   },
+   {
+       "id": "262",
+       "eng": "once",
+       "tran": "wʌns",
+       "rus": "однажды"
+   },
+   {
+       "id": "263",
+       "eng": "base",
+       "tran": "beɪs",
+       "rus": "базовый / основывать"
+   },
+   {
+       "id": "264",
+       "eng": "hear",
+       "tran": "hɪə r",
+       "rus": "слышать"
+   },
+   {
+       "id": "265",
+       "eng": "horse",
+       "tran": "hɔːs",
+       "rus": "лошадь"
+   },
+   {
+       "id": "266",
+       "eng": "cut",
+       "tran": "kʌt",
+       "rus": "резать"
+   },
+   {
+       "id": "267",
+       "eng": "sure",
+       "tran": "ʃɔː r",
+       "rus": "конечно / уверен"
+   },
+   {
+       "id": "268",
+       "eng": "watch",
+       "tran": "wɒtʃ",
+       "rus": "смотреть / часы"
+   },
+   {
+       "id": "269",
+       "eng": "colour",
+       "tran": "ˈkʌl.ə r",
+       "rus": "цвет"
+   },
+   {
+       "id": "270",
+       "eng": "face",
+       "tran": "feɪs",
+       "rus": "лицо"
+   },
+   {
+       "id": "271",
+       "eng": "wood",
+       "tran": "wʊd",
+       "rus": "дерево"
+   },
+   {
+       "id": "272",
+       "eng": "main",
+       "tran": "meɪn",
+       "rus": "главный"
+   },
+   {
+       "id": "273",
+       "eng": "open",
+       "tran": "ˈəʊ.p ə n",
+       "rus": "открыть"
+   },
+   {
+       "id": "274",
+       "eng": "seem",
+       "tran": "siːm",
+       "rus": "казаться"
+   },
+   {
+       "id": "275",
+       "eng": "together",
+       "tran": "təˈɡeð.ə r",
+       "rus": "вместе"
+   },
+   {
+       "id": "276",
+       "eng": "next",
+       "tran": "nekst",
+       "rus": "следующий"
+   },
+   {
+       "id": "277",
+       "eng": "white",
+       "tran": "waɪt",
+       "rus": "белый"
+   },
+   {
+       "id": "278",
+       "eng": "children",
+       "tran": "ˈtʃɪl.drən",
+       "rus": "дети"
+   },
+   {
+       "id": "279",
+       "eng": "begin",
+       "tran": "bɪˈɡɪn",
+       "rus": "начинать"
+   },
+   {
+       "id": "280",
+       "eng": "got",
+       "tran": "ɡɒt",
+       "rus": "получил"
+   },
+   {
+       "id": "281",
+       "eng": "walk",
+       "tran": "wɔːk",
+       "rus": "гулять / прогулка"
+   },
+   {
+       "id": "282",
+       "eng": "example",
+       "tran": "ɪɡˈzɑːm.p ə l",
+       "rus": "пример"
+   },
+   {
+       "id": "283",
+       "eng": "ease",
+       "tran": "iːz",
+       "rus": "легкость / облегчать"
+   },
+   {
+       "id": "284",
+       "eng": "paper",
+       "tran": "ˈpeɪ.pə r",
+       "rus": "бумага"
+   },
+   {
+       "id": "285",
+       "eng": "group",
+       "tran": "ɡruːp",
+       "rus": "группа"
+   },
+   {
+       "id": "286",
+       "eng": "always",
+       "tran": "ˈɔːl.weɪz",
+       "rus": "всегда"
+   },
+   {
+       "id": "287",
+       "eng": "music",
+       "tran": "ˈmjuː.zɪk",
+       "rus": "музыка"
+   },
+   {
+       "id": "288",
+       "eng": "those",
+       "tran": "ðəʊz",
+       "rus": "те"
+   },
+   {
+       "id": "289",
+       "eng": "both",
+       "tran": "bəʊθ",
+       "rus": "оба"
+   },
+   {
+       "id": "290",
+       "eng": "mark",
+       "tran": "mɑːk",
+       "rus": "отметка / отмечать"
+   },
+   {
+       "id": "291",
+       "eng": "often",
+       "tran": "ˈɒf. ə n",
+       "rus": "часто"
+   },
+   {
+       "id": "292",
+       "eng": "letter",
+       "tran": "ˈlet.ə r",
+       "rus": "письмо"
+   },
+   {
+       "id": "293",
+       "eng": "until",
+       "tran": "ənˈtɪl",
+       "rus": "до тех пор"
+   },
+   {
+       "id": "294",
+       "eng": "mile",
+       "tran": "maɪl",
+       "rus": "миля"
+   },
+   {
+       "id": "295",
+       "eng": "river",
+       "tran": "ˈrɪv.ə r",
+       "rus": "река"
+   },
+   {
+       "id": "296",
+       "eng": "car",
+       "tran": "kɑː r",
+       "rus": "машина"
+   },
+   {
+       "id": "297",
+       "eng": "feet",
+       "tran": "fiːt",
+       "rus": "ноги"
+   },
+   {
+       "id": "298",
+       "eng": "care",
+       "tran": "keə r",
+       "rus": "заботиться / уход"
+   },
+   {
+       "id": "299",
+       "eng": "second",
+       "tran": "ˈsek. ə nd",
+       "rus": "секунда"
+   },
+   {
+       "id": "300",
+       "eng": "enough",
+       "tran": "ɪˈnʌf",
+       "rus": "достаточно / довольно"
+   },
+   {
+       "id": "301",
+       "eng": "plain",
+       "tran": "pleɪn",
+       "rus": "простой"
+   },
+   {
+       "id": "302",
+       "eng": "girl",
+       "tran": "ɡɜːl",
+       "rus": "девочка"
+   },
+   {
+       "id": "303",
+       "eng": "usual",
+       "tran": "ˈjuː.ʒu.əl",
+       "rus": "обычно"
+   },
+   {
+       "id": "304",
+       "eng": "young",
+       "tran": "jʌŋ",
+       "rus": "молодой"
+   },
+   {
+       "id": "305",
+       "eng": "ready",
+       "tran": "ˈred.i",
+       "rus": "готовый"
+   },
+   {
+       "id": "306",
+       "eng": "above",
+       "tran": "əˈbʌv",
+       "rus": "выше"
+   },
+   {
+       "id": "307",
+       "eng": "ever",
+       "tran": "ˈev.ə r",
+       "rus": "когда-либо"
+   },
+   {
+       "id": "308",
+       "eng": "red",
+       "tran": "red",
+       "rus": "красный"
+   },
+   {
+       "id": "309",
+       "eng": "list",
+       "tran": "lɪst",
+       "rus": "список"
+   },
+   {
+       "id": "310",
+       "eng": "though",
+       "tran": "ðəʊ",
+       "rus": "хоть"
+   },
+   {
+       "id": "311",
+       "eng": "feel",
+       "tran": "fiːl",
+       "rus": "чувствовать"
+   },
+   {
+       "id": "312",
+       "eng": "talk",
+       "tran": "tɔːk",
+       "rus": "говорить"
+   },
+   {
+       "id": "313",
+       "eng": "bird",
+       "tran": "bɜːd",
+       "rus": "птица"
+   },
+   {
+       "id": "314",
+       "eng": "soon",
+       "tran": "suːn",
+       "rus": "скоро"
+   },
+   {
+       "id": "315",
+       "eng": "body",
+       "tran": "ˈbɒd.i",
+       "rus": "тело"
+   },
+   {
+       "id": "316",
+       "eng": "dog",
+       "tran": "dɒɡ",
+       "rus": "собака"
+   },
+   {
+       "id": "317",
+       "eng": "family",
+       "tran": "ˈfæm. ə l.i",
+       "rus": "семья"
+   },
+   {
+       "id": "318",
+       "eng": "direct",
+       "tran": "daɪˈrekt",
+       "rus": "непосредственный / направлять"
+   },
+   {
+       "id": "319",
+       "eng": "pose",
+       "tran": "pəʊz",
+       "rus": "поза / позировать"
+   },
+   {
+       "id": "320",
+       "eng": "leave",
+       "tran": "liːv",
+       "rus": "покидать"
+   },
+   {
+       "id": "321",
+       "eng": "song",
+       "tran": "sɒŋ",
+       "rus": "песня"
+   },
+   {
+       "id": "322",
+       "eng": "measure",
+       "tran": "ˈmeʒ.ə r",
+       "rus": "мера / измерять"
+   },
+   {
+       "id": "323",
+       "eng": "door",
+       "tran": "dɔː r",
+       "rus": "дверь"
+   },
+   {
+       "id": "324",
+       "eng": "product",
+       "tran": "ˈprɒd.ʌkt",
+       "rus": "продукт"
+   },
+   {
+       "id": "325",
+       "eng": "black",
+       "tran": "blæk",
+       "rus": "черный"
+   },
+   {
+       "id": "326",
+       "eng": "short",
+       "tran": "ʃɔːt",
+       "rus": "короткий"
+   },
+   {
+       "id": "327",
+       "eng": "numeral",
+       "tran": "ˈnjuː.mə.rəl",
+       "rus": "числительное"
+   },
+   {
+       "id": "328",
+       "eng": "class",
+       "tran": "klɑːs",
+       "rus": "класс / сорт"
+   },
+   {
+       "id": "329",
+       "eng": "wind",
+       "tran": "wɪnd",
+       "rus": "ветер"
+   },
+   {
+       "id": "330",
+       "eng": "question",
+       "tran": "ˈkwes.tʃən",
+       "rus": "вопрос"
+   },
+   {
+       "id": "331",
+       "eng": "happen",
+       "tran": "ˈhæp. ə n",
+       "rus": "случаться"
+   },
+   {
+       "id": "332",
+       "eng": "complete",
+       "tran": "kəmˈpliːt",
+       "rus": "полный / завершенный"
+   },
+   {
+       "id": "333",
+       "eng": "ship",
+       "tran": "ʃɪp",
+       "rus": "корабль"
+   },
+   {
+       "id": "334",
+       "eng": "area",
+       "tran": "ˈeə.ri.ə",
+       "rus": "площадь / зона"
+   },
+   {
+       "id": "335",
+       "eng": "half",
+       "tran": "hɑːf",
+       "rus": "половина"
+   },
+   {
+       "id": "336",
+       "eng": "rock",
+       "tran": "rɒk",
+       "rus": "рок / камень / скала"
+   },
+   {
+       "id": "337",
+       "eng": "order",
+       "tran": "ˈɔː.də r",
+       "rus": "заказ / порядок"
+   },
+   {
+       "id": "338",
+       "eng": "fire",
+       "tran": "faɪər",
+       "rus": "огонь"
+   },
+   {
+       "id": "339",
+       "eng": "south",
+       "tran": "saʊθ",
+       "rus": "юг"
+   },
+   {
+       "id": "340",
+       "eng": "problem",
+       "tran": "ˈprɒb.ləm",
+       "rus": "проблема"
+   },
+   {
+       "id": "341",
+       "eng": "piece",
+       "tran": "piːs",
+       "rus": "часть / кусок"
+   },
+   {
+       "id": "342",
+       "eng": "told",
+       "tran": "təʊld",
+       "rus": "говорил"
+   },
+   {
+       "id": "343",
+       "eng": "knew",
+       "tran": "njuː",
+       "rus": "знал"
+   },
+   {
+       "id": "344",
+       "eng": "pass",
+       "tran": "pɑːs",
+       "rus": "проходить / передача"
+   },
+   {
+       "id": "345",
+       "eng": "since",
+       "tran": "sɪns",
+       "rus": "с / поскольку"
+   },
+   {
+       "id": "346",
+       "eng": "top",
+       "tran": "tɒp",
+       "rus": "верх / вершина"
+   },
+   {
+       "id": "347",
+       "eng": "whole",
+       "tran": "həʊl",
+       "rus": "весь / целый"
+   },
+   {
+       "id": "348",
+       "eng": "king",
+       "tran": "kɪŋ",
+       "rus": "король"
+   },
+   {
+       "id": "349",
+       "eng": "street",
+       "tran": "striːt",
+       "rus": "улица"
+   },
+   {
+       "id": "350",
+       "eng": "inch",
+       "tran": "ɪntʃ",
+       "rus": "дюйм"
+   },
+   {
+       "id": "351",
+       "eng": "multiply",
+       "tran": "ˈmʌl.tɪ.plaɪ",
+       "rus": "умножать"
+   },
+   {
+       "id": "352",
+       "eng": "nothing",
+       "tran": "ˈnʌθ.ɪŋ",
+       "rus": "ничего"
+   },
+   {
+       "id": "353",
+       "eng": "course",
+       "tran": "kɔːs",
+       "rus": "курс / блюдо"
+   },
+   {
+       "id": "354",
+       "eng": "stay",
+       "tran": "steɪ",
+       "rus": "оставаться"
+   },
+   {
+       "id": "355",
+       "eng": "wheel",
+       "tran": "wiːl",
+       "rus": "колесо"
+   },
+   {
+       "id": "356",
+       "eng": "full",
+       "tran": "fʊl",
+       "rus": "полный"
+   },
+   {
+       "id": "357",
+       "eng": "force",
+       "tran": "fɔːs",
+       "rus": "сила / заставлять"
+   },
+   {
+       "id": "358",
+       "eng": "blue",
+       "tran": "bluː",
+       "rus": "голубой / синий / грустный"
+   },
+   {
+       "id": "359",
+       "eng": "object",
+       "tran": "ˈɒb.dʒɪkt",
+       "rus": "объект"
+   },
+   {
+       "id": "360",
+       "eng": "decide",
+       "tran": "dɪˈsaɪd",
+       "rus": "решать"
+   },
+   {
+       "id": "361",
+       "eng": "surface",
+       "tran": "ˈsɜː.fɪs",
+       "rus": "поверхность"
+   },
+   {
+       "id": "362",
+       "eng": "deep",
+       "tran": "diːp",
+       "rus": "глубоко"
+   },
+   {
+       "id": "363",
+       "eng": "moon",
+       "tran": "muːn",
+       "rus": "луна"
+   },
+   {
+       "id": "364",
+       "eng": "island",
+       "tran": "ˈaɪ.lənd",
+       "rus": "остров"
+   },
+   {
+       "id": "365",
+       "eng": "foot",
+       "tran": "fʊt",
+       "rus": "нога"
+   },
+   {
+       "id": "366",
+       "eng": "system",
+       "tran": "ˈsɪs.təm",
+       "rus": "система"
+   },
+   {
+       "id": "367",
+       "eng": "busy",
+       "tran": "ˈbɪz.i",
+       "rus": "занят"
+   },
+   {
+       "id": "368",
+       "eng": "test",
+       "tran": "test",
+       "rus": "тест / проверять"
+   },
+   {
+       "id": "369",
+       "eng": "record",
+       "tran": "rɪˈkɔːd",
+       "rus": "записывать"
+   },
+   {
+       "id": "370",
+       "eng": "boat",
+       "tran": "bəʊt",
+       "rus": "лодка"
+   },
+   {
+       "id": "371",
+       "eng": "common",
+       "tran": "ˈkɒm.ən",
+       "rus": "общий / обычный"
+   },
+   {
+       "id": "372",
+       "eng": "gold",
+       "tran": "ɡəʊld",
+       "rus": "золото"
+   },
+   {
+       "id": "373",
+       "eng": "possible",
+       "tran": "ˈpɒs.ə.b ə l",
+       "rus": "возможный"
+   },
+   {
+       "id": "374",
+       "eng": "plane",
+       "tran": "pleɪn",
+       "rus": "самолет / плоскость"
+   },
+   {
+       "id": "375",
+       "eng": "stead",
+       "tran": "sted",
+       "rus": "место"
+   },
+   {
+       "id": "376",
+       "eng": "dry",
+       "tran": "draɪ",
+       "rus": "сухой"
+   },
+   {
+       "id": "377",
+       "eng": "wonder",
+       "tran": "ˈwʌn.də r",
+       "rus": "чудо / удивляться"
+   },
+   {
+       "id": "378",
+       "eng": "laugh",
+       "tran": "lɑːf",
+       "rus": "смех / смеяться"
+   },
+   {
+       "id": "379",
+       "eng": "thousand",
+       "tran": "ˈθaʊ.z ə nd",
+       "rus": "тысяча"
+   },
+   {
+       "id": "380",
+       "eng": "ago",
+       "tran": "əˈɡəʊ",
+       "rus": "тому назад"
+   },
+   {
+       "id": "381",
+       "eng": "ran",
+       "tran": "ræn",
+       "rus": "побежал"
+   },
+   {
+       "id": "382",
+       "eng": "check",
+       "tran": "tʃek",
+       "rus": "проверять"
+   },
+   {
+       "id": "383",
+       "eng": "game",
+       "tran": "ɡeɪm",
+       "rus": "игра"
+   },
+   {
+       "id": "384",
+       "eng": "shape",
+       "tran": "ʃeɪp",
+       "rus": "форма"
+   },
+   {
+       "id": "385",
+       "eng": "equate",
+       "tran": "ɪˈkweɪt",
+       "rus": "приравнивать"
+   },
+   {
+       "id": "386",
+       "eng": "OK",
+       "tran": "ˌəʊˈkeɪ",
+       "rus": "хорошо"
+   },
+   {
+       "id": "387",
+       "eng": "miss",
+       "tran": "mɪs",
+       "rus": "скучать / пропускать"
+   },
+   {
+       "id": "388",
+       "eng": "brought",
+       "tran": "brɔːt",
+       "rus": "привел"
+   },
+   {
+       "id": "389",
+       "eng": "heat",
+       "tran": "hiːt",
+       "rus": "жара, высокая температура"
+   },
+   {
+       "id": "390",
+       "eng": "snow",
+       "tran": "snəʊ",
+       "rus": "снег"
+   },
+   {
+       "id": "391",
+       "eng": "tire",
+       "tran": "taɪə r",
+       "rus": "шина / утомлять"
+   },
+   {
+       "id": "392",
+       "eng": "bring",
+       "tran": "brɪŋ",
+       "rus": "приносить"
+   },
+   {
+       "id": "393",
+       "eng": "yes",
+       "tran": "jes",
+       "rus": "да"
+   },
+   {
+       "id": "394",
+       "eng": "distant",
+       "tran": "ˈdɪs.t ə nt",
+       "rus": "отдаленный"
+   },
+   {
+       "id": "395",
+       "eng": "fill",
+       "tran": "fɪl",
+       "rus": "наполнять"
+   },
+   {
+       "id": "396",
+       "eng": "east",
+       "tran": "iːst",
+       "rus": "восток"
+   },
+   {
+       "id": "397",
+       "eng": "paint",
+       "tran": "peɪnt",
+       "rus": "краска / красить"
+   },
+   {
+       "id": "398",
+       "eng": "language",
+       "tran": "ˈlæŋ.ɡwɪdʒ",
+       "rus": "язык"
+   },
+   {
+       "id": "399",
+       "eng": "among",
+       "tran": "əˈmʌŋ",
+       "rus": "среди"
+   },
+   {
+       "id": "400",
+       "eng": "unit",
+       "tran": "ˈjuː.nɪt",
+       "rus": "единица"
+   },
+   {
+       "id": "401",
+       "eng": "power",
+       "tran": "paʊə r",
+       "rus": "мощность / сила"
+   },
+   {
+       "id": "402",
+       "eng": "town",
+       "tran": "taʊn",
+       "rus": "город"
+   },
+   {
+       "id": "403",
+       "eng": "fine",
+       "tran": "faɪn",
+       "rus": "отлично"
+   },
+   {
+       "id": "404",
+       "eng": "certain",
+       "tran": "ˈsɜː.t ə n",
+       "rus": "определенный"
+   },
+   {
+       "id": "405",
+       "eng": "fly",
+       "tran": "flaɪ",
+       "rus": "летать"
+   },
+   {
+       "id": "406",
+       "eng": "fall",
+       "tran": "fɔːl",
+       "rus": "падать / осень"
+   },
+   {
+       "id": "407",
+       "eng": "lead",
+       "tran": "liːd",
+       "rus": "вести / руководить"
+   },
+   {
+       "id": "408",
+       "eng": "cry",
+       "tran": "kraɪ",
+       "rus": "плакать"
+   },
+   {
+       "id": "409",
+       "eng": "dark",
+       "tran": "dɑːk",
+       "rus": "темный, темнота"
+   },
+   {
+       "id": "410",
+       "eng": "machine",
+       "tran": "məˈʃiːn",
+       "rus": "машина / механизм"
+   },
+   {
+       "id": "411",
+       "eng": "note",
+       "tran": "nəʊt",
+       "rus": "примечание / отмечать"
+   },
+   {
+       "id": "412",
+       "eng": "wait",
+       "tran": "weɪt",
+       "rus": "ждать"
+   },
+   {
+       "id": "413",
+       "eng": "plan",
+       "tran": "plæn",
+       "rus": "план"
+   },
+   {
+       "id": "414",
+       "eng": "figure",
+       "tran": "ˈfɪɡ.ə r",
+       "rus": "цифра / фигура"
+   },
+   {
+       "id": "415",
+       "eng": "star",
+       "tran": "stɑː r",
+       "rus": "звезда"
+   },
+   {
+       "id": "416",
+       "eng": "box",
+       "tran": "bɒks",
+       "rus": "коробка"
+   },
+   {
+       "id": "417",
+       "eng": "noun",
+       "tran": "naʊn",
+       "rus": "существительное"
+   },
+   {
+       "id": "418",
+       "eng": "field",
+       "tran": "fiːld",
+       "rus": "поле"
+   },
+   {
+       "id": "419",
+       "eng": "rest",
+       "tran": "rest",
+       "rus": "остальное / отдыхать"
+   },
+   {
+       "id": "420",
+       "eng": "correct",
+       "tran": "kəˈrekt",
+       "rus": "поправлять / правильный"
+   },
+   {
+       "id": "421",
+       "eng": "able",
+       "tran": "ˈeɪ.b ə l",
+       "rus": "в состоянии / способный"
+   },
+   {
+       "id": "422",
+       "eng": "pound",
+       "tran": "paʊnd",
+       "rus": "фунт"
+   },
+   {
+       "id": "423",
+       "eng": "done",
+       "tran": "dʌn",
+       "rus": "сделанный"
+   },
+   {
+       "id": "424",
+       "eng": "beauty",
+       "tran": "ˈbjuː.ti",
+       "rus": "красота"
+   },
+   {
+       "id": "425",
+       "eng": "drive",
+       "tran": "draɪv",
+       "rus": "водить"
+   },
+   {
+       "id": "426",
+       "eng": "stood",
+       "tran": "stʊd",
+       "rus": "стоял"
+   },
+   {
+       "id": "427",
+       "eng": "contain",
+       "tran": "kənˈteɪn",
+       "rus": "содержать"
+   },
+   {
+       "id": "428",
+       "eng": "front",
+       "tran": "frʌnt",
+       "rus": "перед"
+   },
+   {
+       "id": "429",
+       "eng": "teach",
+       "tran": "tiːtʃ",
+       "rus": "обучать"
+   },
+   {
+       "id": "430",
+       "eng": "week",
+       "tran": "wiːk",
+       "rus": "неделя"
+   },
+   {
+       "id": "431",
+       "eng": "final",
+       "tran": "ˈfaɪ.n ə l",
+       "rus": "финал / последний"
+   },
+   {
+       "id": "432",
+       "eng": "gave",
+       "tran": "ɡeɪv",
+       "rus": "дал"
+   },
+   {
+       "id": "433",
+       "eng": "green",
+       "tran": "ɡriːn",
+       "rus": "зеленый"
+   },
+   {
+       "id": "434",
+       "eng": "oh",
+       "tran": "əʊ",
+       "rus": "ох"
+   },
+   {
+       "id": "435",
+       "eng": "quick",
+       "tran": "kwɪk",
+       "rus": "быстро"
+   },
+   {
+       "id": "436",
+       "eng": "develop",
+       "tran": "dɪˈvel.əp",
+       "rus": "развивать"
+   },
+   {
+       "id": "437",
+       "eng": "ocean",
+       "tran": "ˈəʊ.ʃ ə n",
+       "rus": "океан"
+   },
+   {
+       "id": "438",
+       "eng": "warm",
+       "tran": "wɔːm",
+       "rus": "тепло"
+   },
+   {
+       "id": "439",
+       "eng": "free",
+       "tran": "friː",
+       "rus": "свободный"
+   },
+   {
+       "id": "440",
+       "eng": "minute",
+       "tran": "ˈmɪn.ɪt",
+       "rus": "минута"
+   },
+   {
+       "id": "441",
+       "eng": "strong",
+       "tran": "strɒŋ",
+       "rus": "сильный"
+   },
+   {
+       "id": "442",
+       "eng": "special",
+       "tran": "ˈspeʃ.əl",
+       "rus": "особый"
+   },
+   {
+       "id": "443",
+       "eng": "mind",
+       "tran": "maɪnd",
+       "rus": "разум / возражать"
+   },
+   {
+       "id": "444",
+       "eng": "behind",
+       "tran": "bɪˈhaɪnd",
+       "rus": "позади"
+   },
+   {
+       "id": "445",
+       "eng": "clear",
+       "tran": "klɪə r",
+       "rus": "ясный / понятно"
+   },
+   {
+       "id": "446",
+       "eng": "tail",
+       "tran": "teɪl",
+       "rus": "хвост"
+   },
+   {
+       "id": "447",
+       "eng": "produce",
+       "tran": "prəˈdʒuːs",
+       "rus": "производить"
+   },
+   {
+       "id": "448",
+       "eng": "fact",
+       "tran": "fækt",
+       "rus": "факт"
+   },
+   {
+       "id": "449",
+       "eng": "space",
+       "tran": "speɪs",
+       "rus": "пространство / космос"
+   },
+   {
+       "id": "450",
+       "eng": "heard",
+       "tran": "h ɜːd",
+       "rus": "слышал"
+   },
+   {
+       "id": "451",
+       "eng": "best",
+       "tran": "best",
+       "rus": "лучший"
+   },
+   {
+       "id": "452",
+       "eng": "hour",
+       "tran": "aʊə r",
+       "rus": "час"
+   },
+   {
+       "id": "453",
+       "eng": "better",
+       "tran": "ˈbet.ə r",
+       "rus": "лучше"
+   },
+   {
+       "id": "454",
+       "eng": "true",
+       "tran": "truː",
+       "rus": "правда"
+   },
+   {
+       "id": "455",
+       "eng": "during",
+       "tran": "ˈdʒʊə.rɪŋ",
+       "rus": "в течение"
+   },
+   {
+       "id": "456",
+       "eng": "hundred",
+       "tran": "ˈhʌn.drəd",
+       "rus": "сотня"
+   },
+   {
+       "id": "457",
+       "eng": "five",
+       "tran": "faɪv",
+       "rus": "пять"
+   },
+   {
+       "id": "458",
+       "eng": "remember",
+       "tran": "rɪˈmem.bə r",
+       "rus": "помнить"
+   },
+   {
+       "id": "459",
+       "eng": "step",
+       "tran": "step",
+       "rus": "шаг"
+   },
+   {
+       "id": "460",
+       "eng": "early",
+       "tran": "ˈɜː.li",
+       "rus": "ранний / рано"
+   },
+   {
+       "id": "461",
+       "eng": "hold",
+       "tran": "həʊld",
+       "rus": "держать"
+   },
+   {
+       "id": "462",
+       "eng": "west",
+       "tran": "west",
+       "rus": "запад"
+   },
+   {
+       "id": "463",
+       "eng": "ground",
+       "tran": "ɡraʊnd",
+       "rus": "земля"
+   },
+   {
+       "id": "464",
+       "eng": "interest",
+       "tran": "ˈɪn.trəst",
+       "rus": "интерес"
+   },
+   {
+       "id": "465",
+       "eng": "reach",
+       "tran": "riːtʃ",
+       "rus": "достигать"
+   },
+   {
+       "id": "466",
+       "eng": "fast",
+       "tran": "fɑːst",
+       "rus": "быстро"
+   },
+   {
+       "id": "467",
+       "eng": "verb",
+       "tran": "vɜːb",
+       "rus": "глагол"
+   },
+   {
+       "id": "468",
+       "eng": "sing",
+       "tran": "sɪŋ",
+       "rus": "петь"
+   },
+   {
+       "id": "469",
+       "eng": "listen",
+       "tran": "ˈlɪs. ə n",
+       "rus": "слушать"
+   },
+   {
+       "id": "470",
+       "eng": "six",
+       "tran": "sɪks",
+       "rus": "шесть"
+   },
+   {
+       "id": "471",
+       "eng": "table",
+       "tran": "ˈteɪ.b ə l",
+       "rus": "стол"
+   },
+   {
+       "id": "472",
+       "eng": "travel",
+       "tran": "ˈtræv. ə l",
+       "rus": "путешествовать"
+   },
+   {
+       "id": "473",
+       "eng": "less",
+       "tran": "les",
+       "rus": "меньше"
+   },
+   {
+       "id": "474",
+       "eng": "morning",
+       "tran": "ˈmɔː.nɪŋ",
+       "rus": "утро"
+   },
+   {
+       "id": "475",
+       "eng": "ten",
+       "tran": "ten",
+       "rus": "десять"
+   },
+   {
+       "id": "476",
+       "eng": "simple",
+       "tran": "ˈsɪm.p ə l",
+       "rus": "просто / простой"
+   },
+   {
+       "id": "477",
+       "eng": "several",
+       "tran": "ˈsev. ə r. ə l",
+       "rus": "несколько"
+   },
+   {
+       "id": "478",
+       "eng": "vowel",
+       "tran": "vaʊəl",
+       "rus": "гласный (звук)"
+   },
+   {
+       "id": "479",
+       "eng": "towards",
+       "tran": "twoʊrdz",
+       "rus": "к / по направлению к"
+   },
+   {
+       "id": "480",
+       "eng": "war",
+       "tran": "wɔː r",
+       "rus": "война"
+   },
+   {
+       "id": "481",
+       "eng": "lay",
+       "tran": "leɪ",
+       "rus": "лежать"
+   },
+   {
+       "id": "482",
+       "eng": "against",
+       "tran": "əˈɡenst",
+       "rus": "против"
+   },
+   {
+       "id": "483",
+       "eng": "pattern",
+       "tran": "ˈpæt. ə n",
+       "rus": "узор"
+   },
+   {
+       "id": "484",
+       "eng": "slow",
+       "tran": "sləʊ",
+       "rus": "медленно / медленный"
+   },
+   {
+       "id": "485",
+       "eng": "center",
+       "tran": "ˈsen.tə r",
+       "rus": "центр"
+   },
+   {
+       "id": "486",
+       "eng": "love",
+       "tran": "lʌv",
+       "rus": "любовь"
+   },
+   {
+       "id": "487",
+       "eng": "person",
+       "tran": "ˈpɜː.s ə n",
+       "rus": "человек"
+   },
+   {
+       "id": "488",
+       "eng": "money",
+       "tran": "ˈmʌn.i",
+       "rus": "деньги"
+   },
+   {
+       "id": "489",
+       "eng": "serve",
+       "tran": "sɜːv",
+       "rus": "обслуживать"
+   },
+   {
+       "id": "490",
+       "eng": "appear",
+       "tran": "əˈpɪə r",
+       "rus": "появляться"
+   },
+   {
+       "id": "491",
+       "eng": "road",
+       "tran": "rəʊd",
+       "rus": "дорога"
+   },
+   {
+       "id": "492",
+       "eng": "map",
+       "tran": "mæp",
+       "rus": "карта"
+   },
+   {
+       "id": "493",
+       "eng": "rain",
+       "tran": "reɪn",
+       "rus": "дождь"
+   },
+   {
+       "id": "494",
+       "eng": "rule",
+       "tran": "ruːl",
+       "rus": "правило"
+   },
+   {
+       "id": "495",
+       "eng": "govern",
+       "tran": "ˈɡʌv. ə n",
+       "rus": "управлять"
+   },
+   {
+       "id": "496",
+       "eng": "pull",
+       "tran": "pʊl",
+       "rus": "тянуть"
+   },
+   {
+       "id": "497",
+       "eng": "cold",
+       "tran": "kəʊld",
+       "rus": "холодный"
+   },
+   {
+       "id": "498",
+       "eng": "notice",
+       "tran": "ˈnəʊ.tɪs",
+       "rus": "уведомление / замечать"
+   },
+   {
+       "id": "499",
+       "eng": "voice",
+       "tran": "vɔɪs",
+       "rus": "голос"
+   },
+   {
+       "id": "500",
+       "eng": "energy",
+       "tran": "ˈen.ə.dʒi",
+       "rus": "энергия"
+   },
+   {
+       "id": "501",
+       "eng": "hunt",
+       "tran": "hʌnt",
+       "rus": "охотититься"
+   },
+   {
+       "id": "502",
+       "eng": "probable",
+       "tran": "ˈprɒb.ə.b ə l",
+       "rus": "вероятный"
+   },
+   {
+       "id": "503",
+       "eng": "bed",
+       "tran": "bed",
+       "rus": "кровать"
+   },
+   {
+       "id": "504",
+       "eng": "brother",
+       "tran": "ˈbrʌð.ə r",
+       "rus": "брат"
+   },
+   {
+       "id": "505",
+       "eng": "egg",
+       "tran": "eɡ",
+       "rus": "яйцо"
+   },
+   {
+       "id": "506",
+       "eng": "ride",
+       "tran": "raɪd",
+       "rus": "ездить / поездка"
+   },
+   {
+       "id": "507",
+       "eng": "cell",
+       "tran": "sel",
+       "rus": "клетка / мобильный ( амер. )"
+   },
+   {
+       "id": "508",
+       "eng": "believe",
+       "tran": "bɪˈliːv",
+       "rus": "верить"
+   },
+   {
+       "id": "509",
+       "eng": "perhaps",
+       "tran": "pəˈhæps",
+       "rus": "возможно"
+   },
+   {
+       "id": "510",
+       "eng": "pick",
+       "tran": "pɪk",
+       "rus": "выбирать"
+   },
+   {
+       "id": "511",
+       "eng": "sudden",
+       "tran": "ˈsʌd. ə n",
+       "rus": "внезапный"
+   },
+   {
+       "id": "512",
+       "eng": "count",
+       "tran": "kaʊnt",
+       "rus": "считать"
+   },
+   {
+       "id": "513",
+       "eng": "square",
+       "tran": "skweə r",
+       "rus": "квадрат / площадь"
+   },
+   {
+       "id": "514",
+       "eng": "reason",
+       "tran": "ˈriː.z ə n",
+       "rus": "причина"
+   },
+   {
+       "id": "515",
+       "eng": "length",
+       "tran": "leŋθ",
+       "rus": "длина"
+   },
+   {
+       "id": "516",
+       "eng": "represent",
+       "tran": "ˌrep.rɪˈzent",
+       "rus": "представлять"
+   },
+   {
+       "id": "517",
+       "eng": "art",
+       "tran": "ɑːt",
+       "rus": "искусство"
+   },
+   {
+       "id": "518",
+       "eng": "subject",
+       "tran": "ˈsʌb.dʒekt",
+       "rus": "предмет"
+   },
+   {
+       "id": "519",
+       "eng": "region",
+       "tran": "ˈriː.dʒ ə n",
+       "rus": "регион"
+   },
+   {
+       "id": "520",
+       "eng": "size",
+       "tran": "saɪz",
+       "rus": "размер"
+   },
+   {
+       "id": "521",
+       "eng": "vary",
+       "tran": "ˈveə.ri",
+       "rus": "меняться / варьировать"
+   },
+   {
+       "id": "522",
+       "eng": "settle",
+       "tran": "ˈset. ə l",
+       "rus": "селиться"
+   },
+   {
+       "id": "523",
+       "eng": "speak",
+       "tran": "spiːk",
+       "rus": "говорить"
+   },
+   {
+       "id": "524",
+       "eng": "weight",
+       "tran": "weɪt",
+       "rus": "вес"
+   },
+   {
+       "id": "525",
+       "eng": "general",
+       "tran": "ˈdʒen. ə r. ə l",
+       "rus": "главный / общий"
+   },
+   {
+       "id": "526",
+       "eng": "ice",
+       "tran": "aɪs",
+       "rus": "лед"
+   },
+   {
+       "id": "527",
+       "eng": "matter",
+       "tran": "ˈmæt.ə r",
+       "rus": "иметь значение / предмет / материя"
+   },
+   {
+       "id": "528",
+       "eng": "circle",
+       "tran": "ˈsɜː.k ə l",
+       "rus": "круг"
+   },
+   {
+       "id": "529",
+       "eng": "pair",
+       "tran": "peə r",
+       "rus": "пара"
+   },
+   {
+       "id": "530",
+       "eng": "include",
+       "tran": "ɪnˈkluːd",
+       "rus": "включать в себя"
+   },
+   {
+       "id": "531",
+       "eng": "divide",
+       "tran": "dɪˈvaɪd",
+       "rus": "разделять"
+   },
+   {
+       "id": "532",
+       "eng": "syllable",
+       "tran": "ˈsɪl.ə.b ə l",
+       "rus": "слог"
+   },
+   {
+       "id": "533",
+       "eng": "felt",
+       "tran": "felt",
+       "rus": "чувствовал"
+   },
+   {
+       "id": "534",
+       "eng": "grand",
+       "tran": "ɡrænd",
+       "rus": "большой / великий"
+   },
+   {
+       "id": "535",
+       "eng": "ball",
+       "tran": "bɔːl",
+       "rus": "мяч"
+   },
+   {
+       "id": "536",
+       "eng": "yet",
+       "tran": "jet",
+       "rus": "еще"
+   },
+   {
+       "id": "537",
+       "eng": "wave",
+       "tran": "weɪv",
+       "rus": "волна"
+   },
+   {
+       "id": "538",
+       "eng": "drop",
+       "tran": "drɒp",
+       "rus": "капля / бросать"
+   },
+   {
+       "id": "539",
+       "eng": "heart",
+       "tran": "hɑːt",
+       "rus": "сердце"
+   },
+   {
+       "id": "540",
+       "eng": "AM",
+       "tran": "ˌ eɪ ˈem",
+       "rus": "до полудня"
+   },
+   {
+       "id": "541",
+       "eng": "present",
+       "tran": "ˈprez. ə nt",
+       "rus": "подарок / настоящий"
+   },
+   {
+       "id": "542",
+       "eng": "heavy",
+       "tran": "ˈhev.i",
+       "rus": "тяжелый"
+   },
+   {
+       "id": "543",
+       "eng": "dance",
+       "tran": "dɑːns",
+       "rus": "танец / танцевать"
+   },
+   {
+       "id": "544",
+       "eng": "engine",
+       "tran": "ˈen.dʒɪn",
+       "rus": "двигатель"
+   },
+   {
+       "id": "545",
+       "eng": "position",
+       "tran": "pəˈzɪʃ. ə n",
+       "rus": "позиция"
+   },
+   {
+       "id": "546",
+       "eng": "arm",
+       "tran": "ɑːm",
+       "rus": "рука"
+   },
+   {
+       "id": "547",
+       "eng": "wide",
+       "tran": "waɪd",
+       "rus": "широкий / повсюду"
+   },
+   {
+       "id": "548",
+       "eng": "sail",
+       "tran": "seɪl",
+       "rus": "паруса / плавать"
+   },
+   {
+       "id": "549",
+       "eng": "material",
+       "tran": "məˈtɪə.ri.əl",
+       "rus": "материал"
+   },
+   {
+       "id": "550",
+       "eng": "fraction",
+       "tran": "ˈfræk.ʃ ə n",
+       "rus": "доля"
+   },
+   {
+       "id": "551",
+       "eng": "forest",
+       "tran": "ˈfɒr.ɪst",
+       "rus": "лес"
+   },
+   {
+       "id": "552",
+       "eng": "sit",
+       "tran": "sɪt",
+       "rus": "сидеть"
+   },
+   {
+       "id": "553",
+       "eng": "race",
+       "tran": "reɪs",
+       "rus": "гонка / раса"
+   },
+   {
+       "id": "554",
+       "eng": "window",
+       "tran": "ˈwɪn.dəʊ",
+       "rus": "окно"
+   },
+   {
+       "id": "555",
+       "eng": "store ( амер. )",
+       "tran": "stɔː r",
+       "rus": "магазин"
+   },
+   {
+       "id": "556",
+       "eng": "summer",
+       "tran": "ˈsʌm.ə r",
+       "rus": "лето"
+   },
+   {
+       "id": "557",
+       "eng": "train",
+       "tran": "treɪn",
+       "rus": "поезд"
+   },
+   {
+       "id": "558",
+       "eng": "sleep",
+       "tran": "sliːp",
+       "rus": "спать"
+   },
+   {
+       "id": "559",
+       "eng": "prove",
+       "tran": "pruːv",
+       "rus": "доказывать"
+   },
+   {
+       "id": "560",
+       "eng": "alone",
+       "tran": "əˈləʊn",
+       "rus": "один / одинокий"
+   },
+   {
+       "id": "561",
+       "eng": "leg",
+       "tran": "leɡ",
+       "rus": "нога"
+   },
+   {
+       "id": "562",
+       "eng": "exercise",
+       "tran": "ˈek.sə.saɪz",
+       "rus": "упражнение"
+   },
+   {
+       "id": "563",
+       "eng": "wall",
+       "tran": "wɔːl",
+       "rus": "стена"
+   },
+   {
+       "id": "564",
+       "eng": "catch",
+       "tran": "kætʃ",
+       "rus": "поймать"
+   },
+   {
+       "id": "565",
+       "eng": "mount",
+       "tran": "maʊnt",
+       "rus": "взбираться / монтировать"
+   },
+   {
+       "id": "566",
+       "eng": "wish",
+       "tran": "wɪʃ",
+       "rus": "желать"
+   },
+   {
+       "id": "567",
+       "eng": "sky",
+       "tran": "skaɪ",
+       "rus": "небо"
+   },
+   {
+       "id": "568",
+       "eng": "board",
+       "tran": "bɔːd",
+       "rus": "доска"
+   },
+   {
+       "id": "569",
+       "eng": "joy",
+       "tran": "dʒɔɪ",
+       "rus": "радость"
+   },
+   {
+       "id": "570",
+       "eng": "winter",
+       "tran": "ˈwɪn.tə r",
+       "rus": "зима"
+   },
+   {
+       "id": "571",
+       "eng": "somebody",
+       "tran": "ˈsʌm.bə.di",
+       "rus": "кто-то"
+   },
+   {
+       "id": "572",
+       "eng": "written",
+       "tran": "ˈrɪt. ə n",
+       "rus": "написанный"
+   },
+   {
+       "id": "573",
+       "eng": "wild",
+       "tran": "waɪld",
+       "rus": "дикий"
+   },
+   {
+       "id": "574",
+       "eng": "instrument",
+       "tran": "ˈɪn.strə.mənt",
+       "rus": "инструмент"
+   },
+   {
+       "id": "575",
+       "eng": "kept",
+       "tran": "kept",
+       "rus": "сохранил"
+   },
+   {
+       "id": "576",
+       "eng": "glass",
+       "tran": "ɡlɑːs",
+       "rus": "стекло"
+   },
+   {
+       "id": "577",
+       "eng": "grass",
+       "tran": "ɡrɑːs",
+       "rus": "трава"
+   },
+   {
+       "id": "578",
+       "eng": "cow",
+       "tran": "kaʊ",
+       "rus": "корова"
+   },
+   {
+       "id": "579",
+       "eng": "job",
+       "tran": "dʒɒb",
+       "rus": "работа"
+   },
+   {
+       "id": "580",
+       "eng": "edge",
+       "tran": "edʒ",
+       "rus": "край"
+   },
+   {
+       "id": "581",
+       "eng": "sign",
+       "tran": "saɪn",
+       "rus": "подписывать / знак"
+   },
+   {
+       "id": "582",
+       "eng": "visit",
+       "tran": "ˈvɪz.ɪt",
+       "rus": "посещать"
+   },
+   {
+       "id": "583",
+       "eng": "past",
+       "tran": "pɑːst",
+       "rus": "прошлое"
+   },
+   {
+       "id": "584",
+       "eng": "soft",
+       "tran": "sɒft",
+       "rus": "мягкий"
+   },
+   {
+       "id": "585",
+       "eng": "fun",
+       "tran": "fʌn",
+       "rus": "веселый / веселье"
+   },
+   {
+       "id": "586",
+       "eng": "bright",
+       "tran": "braɪt",
+       "rus": "яркий"
+   },
+   {
+       "id": "587",
+       "eng": "gas",
+       "tran": "ɡæs",
+       "rus": "газ / бензин ( амер. )"
+   },
+   {
+       "id": "588",
+       "eng": "weather",
+       "tran": "ˈweð.ə r",
+       "rus": "погода"
+   },
+   {
+       "id": "589",
+       "eng": "month",
+       "tran": "mʌnθ",
+       "rus": "месяц"
+   },
+   {
+       "id": "590",
+       "eng": "million",
+       "tran": "ˈmɪl.jən",
+       "rus": "миллион"
+   },
+   {
+       "id": "591",
+       "eng": "bear",
+       "tran": "beə r",
+       "rus": "медведь / выносить (терпеть)"
+   },
+   {
+       "id": "592",
+       "eng": "finish",
+       "tran": "ˈfɪn.ɪʃ",
+       "rus": "закончить"
+   },
+   {
+       "id": "593",
+       "eng": "happy",
+       "tran": "ˈhæp.i",
+       "rus": "счастливый"
+   },
+   {
+       "id": "594",
+       "eng": "hope",
+       "tran": "həʊp",
+       "rus": "надежда / надеяться"
+   },
+   {
+       "id": "595",
+       "eng": "flower",
+       "tran": "flaʊə r",
+       "rus": "цветок"
+   },
+   {
+       "id": "596",
+       "eng": "clothes",
+       "tran": "kləʊðz",
+       "rus": "одежда"
+   },
+   {
+       "id": "597",
+       "eng": "strange",
+       "tran": "streɪndʒ",
+       "rus": "странный"
+   },
+   {
+       "id": "598",
+       "eng": "gone",
+       "tran": "ɡɒn",
+       "rus": "ушедший"
+   },
+   {
+       "id": "599",
+       "eng": "trade",
+       "tran": "treɪd",
+       "rus": "торговля"
+   },
+   {
+       "id": "600",
+       "eng": "melody",
+       "tran": "ˈmel.ə.di",
+       "rus": "мелодия"
+   },
+   {
+       "id": "601",
+       "eng": "trip",
+       "tran": "trɪp",
+       "rus": "поездка"
+   },
+   {
+       "id": "602",
+       "eng": "office",
+       "tran": "ˈɒf.ɪs",
+       "rus": "офис"
+   },
+   {
+       "id": "603",
+       "eng": "receive",
+       "tran": "rɪˈsiːv",
+       "rus": "получать"
+   },
+   {
+       "id": "604",
+       "eng": "row",
+       "tran": "rəʊ",
+       "rus": "ряд"
+   },
+   {
+       "id": "605",
+       "eng": "mouth",
+       "tran": "maʊθ",
+       "rus": "рот"
+   },
+   {
+       "id": "606",
+       "eng": "exact",
+       "tran": "ɪɡˈzækt",
+       "rus": "точный"
+   },
+   {
+       "id": "607",
+       "eng": "symbol",
+       "tran": "ˈsɪm.b ə l",
+       "rus": "символ"
+   },
+   {
+       "id": "608",
+       "eng": "die",
+       "tran": "daɪ",
+       "rus": "умирать"
+   },
+   {
+       "id": "609",
+       "eng": "least",
+       "tran": "liːst",
+       "rus": "наименее / меньше всего"
+   },
+   {
+       "id": "610",
+       "eng": "trouble",
+       "tran": "ˈtrʌb. ə l",
+       "rus": "проблема"
+   },
+   {
+       "id": "611",
+       "eng": "shout",
+       "tran": "ʃaʊt",
+       "rus": "кричать"
+   },
+   {
+       "id": "612",
+       "eng": "except",
+       "tran": "ɪkˈsept",
+       "rus": "кроме / исключая"
+   },
+   {
+       "id": "613",
+       "eng": "writer",
+       "tran": "ˈraɪ.tə r",
+       "rus": "писатель"
+   },
+   {
+       "id": "614",
+       "eng": "seed",
+       "tran": "siːd",
+       "rus": "семя"
+   },
+   {
+       "id": "615",
+       "eng": "tone",
+       "tran": "təʊn",
+       "rus": "тон"
+   },
+   {
+       "id": "616",
+       "eng": "join",
+       "tran": "dʒɔɪn",
+       "rus": "присоединяться"
+   },
+   {
+       "id": "617",
+       "eng": "suggest",
+       "tran": "səˈdʒest",
+       "rus": "предлагать"
+   },
+   {
+       "id": "618",
+       "eng": "clean",
+       "tran": "kliːn",
+       "rus": "чисто / чистый"
+   },
+   {
+       "id": "619",
+       "eng": "break",
+       "tran": "breɪk",
+       "rus": "перерыв / ломать"
+   },
+   {
+       "id": "620",
+       "eng": "lady",
+       "tran": "ˈleɪ.di",
+       "rus": "леди"
+   },
+   {
+       "id": "621",
+       "eng": "yard",
+       "tran": "jɑːd",
+       "rus": "двор"
+   },
+   {
+       "id": "622",
+       "eng": "rise",
+       "tran": "raɪz",
+       "rus": "рост / подниматься"
+   },
+   {
+       "id": "623",
+       "eng": "bad",
+       "tran": "bæd",
+       "rus": "плохой"
+   },
+   {
+       "id": "624",
+       "eng": "blow",
+       "tran": "bləʊ",
+       "rus": "удар / дуть"
+   },
+   {
+       "id": "625",
+       "eng": "oil",
+       "tran": "ɔɪl",
+       "rus": "масло"
+   },
+   {
+       "id": "626",
+       "eng": "blood",
+       "tran": "blʌd",
+       "rus": "кровь"
+   },
+   {
+       "id": "627",
+       "eng": "touch",
+       "tran": "tʌtʃ",
+       "rus": "трогать / прикосновение"
+   },
+   {
+       "id": "628",
+       "eng": "goal",
+       "tran": "ɡəʊl",
+       "rus": "цель"
+   },
+   {
+       "id": "629",
+       "eng": "cent",
+       "tran": "sent",
+       "rus": "цент"
+   },
+   {
+       "id": "630",
+       "eng": "mix",
+       "tran": "mɪks",
+       "rus": "смесь / смешивать"
+   },
+   {
+       "id": "631",
+       "eng": "team",
+       "tran": "tiːm",
+       "rus": "команда"
+   },
+   {
+       "id": "632",
+       "eng": "wire",
+       "tran": "waɪə r",
+       "rus": "проволока"
+   },
+   {
+       "id": "633",
+       "eng": "cost",
+       "tran": "kɒst",
+       "rus": "стоимость"
+   },
+   {
+       "id": "634",
+       "eng": "lost",
+       "tran": "lɒst",
+       "rus": "потерял / потерянный"
+   },
+   {
+       "id": "635",
+       "eng": "brown",
+       "tran": "braʊn",
+       "rus": "коричневый"
+   },
+   {
+       "id": "636",
+       "eng": "wear",
+       "tran": "weə r",
+       "rus": "носить"
+   },
+   {
+       "id": "637",
+       "eng": "garden",
+       "tran": "ˈɡɑː.d ə n",
+       "rus": "сад"
+   },
+   {
+       "id": "638",
+       "eng": "equal",
+       "tran": "ˈiː.kwəl",
+       "rus": "равный"
+   },
+   {
+       "id": "639",
+       "eng": "sent",
+       "tran": "sent",
+       "rus": "отправил / отправленный"
+   },
+   {
+       "id": "640",
+       "eng": "choose",
+       "tran": "tʃuːz",
+       "rus": "выбирать"
+   },
+   {
+       "id": "641",
+       "eng": "feel",
+       "tran": "fiːl",
+       "rus": "чувствовать"
+   },
+   {
+       "id": "642",
+       "eng": "fit",
+       "tran": "fɪt",
+       "rus": "соответствовать / подходить"
+   },
+   {
+       "id": "643",
+       "eng": "flow",
+       "tran": "fləʊ",
+       "rus": "поток / течь"
+   },
+   {
+       "id": "644",
+       "eng": "fair",
+       "tran": "feə r",
+       "rus": "ярмарка / честный"
+   },
+   {
+       "id": "645",
+       "eng": "bank",
+       "tran": "bæŋk",
+       "rus": "банк"
+   },
+   {
+       "id": "646",
+       "eng": "collect",
+       "tran": "kəˈlekt",
+       "rus": "собирать"
+   },
+   {
+       "id": "647",
+       "eng": "save",
+       "tran": "seɪv",
+       "rus": "сохранять"
+   },
+   {
+       "id": "648",
+       "eng": "control",
+       "tran": "kənˈtrəʊl",
+       "rus": "контроль / контролировать"
+   },
+   {
+       "id": "649",
+       "eng": "decimal",
+       "tran": "ˈdes.ɪ.məl",
+       "rus": "десятичный"
+   },
+   {
+       "id": "650",
+       "eng": "ear",
+       "tran": "ɪə r",
+       "rus": "ухо"
+   },
+   {
+       "id": "651",
+       "eng": "else",
+       "tran": "els",
+       "rus": "еще"
+   },
+   {
+       "id": "652",
+       "eng": "quite",
+       "tran": "kwaɪt",
+       "rus": "довольно"
+   },
+   {
+       "id": "653",
+       "eng": "broke",
+       "tran": "brəʊk",
+       "rus": "сломал / без денег"
+   },
+   {
+       "id": "654",
+       "eng": "case",
+       "tran": "keɪs",
+       "rus": "случай"
+   },
+   {
+       "id": "655",
+       "eng": "middle",
+       "tran": "ˈmɪd. ə l",
+       "rus": "средний"
+   },
+   {
+       "id": "656",
+       "eng": "kill",
+       "tran": "kɪl",
+       "rus": "убивать"
+   },
+   {
+       "id": "657",
+       "eng": "son",
+       "tran": "sʌn",
+       "rus": "сын"
+   },
+   {
+       "id": "658",
+       "eng": "lake",
+       "tran": "leɪk",
+       "rus": "озеро"
+   },
+   {
+       "id": "659",
+       "eng": "moment",
+       "tran": "ˈməʊ.mənt",
+       "rus": "момент"
+   },
+   {
+       "id": "660",
+       "eng": "scale",
+       "tran": "skeɪl",
+       "rus": "шкала"
+   },
+   {
+       "id": "661",
+       "eng": "loud",
+       "tran": "laʊd",
+       "rus": "громко"
+   },
+   {
+       "id": "662",
+       "eng": "spring",
+       "tran": "sprɪŋ",
+       "rus": "весна"
+   },
+   {
+       "id": "663",
+       "eng": "observe",
+       "tran": "əbˈzɜːv",
+       "rus": "наблюдать"
+   },
+   {
+       "id": "664",
+       "eng": "child",
+       "tran": "tʃaɪld",
+       "rus": "ребенок"
+   },
+   {
+       "id": "665",
+       "eng": "straight",
+       "tran": "streɪt",
+       "rus": "прямо / прямой"
+   },
+   {
+       "id": "666",
+       "eng": "consonant",
+       "tran": "ˈkɒn.sə.nənt",
+       "rus": "согласный (звук)"
+   },
+   {
+       "id": "667",
+       "eng": "nation",
+       "tran": "ˈneɪ.ʃ ə n",
+       "rus": "нация"
+   },
+   {
+       "id": "668",
+       "eng": "dictionary",
+       "tran": "ˈdɪk.ʃ ə n. ə r.i",
+       "rus": "словарь"
+   },
+   {
+       "id": "669",
+       "eng": "milk",
+       "tran": "mɪlk",
+       "rus": "молоко"
+   },
+   {
+       "id": "670",
+       "eng": "speed",
+       "tran": "spiːd",
+       "rus": "скорость"
+   },
+   {
+       "id": "671",
+       "eng": "method",
+       "tran": "ˈmeθ.əd",
+       "rus": "метод"
+   },
+   {
+       "id": "672",
+       "eng": "organ",
+       "tran": "ˈɔː.ɡən",
+       "rus": "орган"
+   },
+   {
+       "id": "673",
+       "eng": "pay",
+       "tran": "peɪ",
+       "rus": "платить"
+   },
+   {
+       "id": "674",
+       "eng": "age",
+       "tran": "eɪdʒ",
+       "rus": "возраст"
+   },
+   {
+       "id": "675",
+       "eng": "section",
+       "tran": "ˈsek.ʃ ə n",
+       "rus": "раздел"
+   },
+   {
+       "id": "676",
+       "eng": "dress",
+       "tran": "dres",
+       "rus": "платье / одеваться"
+   },
+   {
+       "id": "677",
+       "eng": "cloud",
+       "tran": "klaʊd",
+       "rus": "облако"
+   },
+   {
+       "id": "678",
+       "eng": "surprise",
+       "tran": "səˈpraɪz",
+       "rus": "сюрприз"
+   },
+   {
+       "id": "679",
+       "eng": "quiet",
+       "tran": "ˈkwaɪ.ət",
+       "rus": "тихо / тихий"
+   },
+   {
+       "id": "680",
+       "eng": "stone",
+       "tran": "stəʊn",
+       "rus": "камень"
+   },
+   {
+       "id": "681",
+       "eng": "tiny",
+       "tran": "ˈtaɪ.ni",
+       "rus": "крошечный"
+   },
+   {
+       "id": "682",
+       "eng": "climb",
+       "tran": "klaɪm",
+       "rus": "подъем / взбираться"
+   },
+   {
+       "id": "683",
+       "eng": "cool",
+       "tran": "kuːl",
+       "rus": "крутой / прохладно"
+   },
+   {
+       "id": "684",
+       "eng": "design",
+       "tran": "dɪˈzaɪn",
+       "rus": "дизайн"
+   },
+   {
+       "id": "685",
+       "eng": "poor",
+       "tran": "pɔː r",
+       "rus": "бедный"
+   },
+   {
+       "id": "686",
+       "eng": "lot",
+       "tran": "lɒt",
+       "rus": "много"
+   },
+   {
+       "id": "687",
+       "eng": "explain",
+       "tran": "ɪkˈspleɪn",
+       "rus": "объяснять"
+   },
+   {
+       "id": "688",
+       "eng": "bottom",
+       "tran": "ˈbɒt. ə m",
+       "rus": "низ"
+   },
+   {
+       "id": "689",
+       "eng": "key",
+       "tran": "kiː",
+       "rus": "ключ"
+   },
+   {
+       "id": "690",
+       "eng": "iron",
+       "tran": "aɪən",
+       "rus": "железо"
+   },
+   {
+       "id": "691",
+       "eng": "single",
+       "tran": "ˈsɪŋ.ɡ ə l",
+       "rus": "один"
+   },
+   {
+       "id": "692",
+       "eng": "stick",
+       "tran": "stɪk",
+       "rus": "придерживаться / приклеивать"
+   },
+   {
+       "id": "693",
+       "eng": "flat",
+       "tran": "flæt",
+       "rus": "квартира ( брит. ) / плоский"
+   },
+   {
+       "id": "694",
+       "eng": "twenty",
+       "tran": "ˈtwen.ti",
+       "rus": "двадцать"
+   },
+   {
+       "id": "695",
+       "eng": "skin",
+       "tran": "skɪn",
+       "rus": "кожа"
+   },
+   {
+       "id": "696",
+       "eng": "smile",
+       "tran": "smaɪl",
+       "rus": "улыбка"
+   },
+   {
+       "id": "697",
+       "eng": "crease",
+       "tran": "kriːs",
+       "rus": "складка / мять"
+   },
+   {
+       "id": "698",
+       "eng": "hole",
+       "tran": "həʊl",
+       "rus": "дыра"
+   },
+   {
+       "id": "699",
+       "eng": "jump",
+       "tran": "dʒʌmp",
+       "rus": "прыгать"
+   },
+   {
+       "id": "700",
+       "eng": "baby",
+       "tran": "ˈbeɪ.bi",
+       "rus": "ребенок"
+   },
+   {
+       "id": "701",
+       "eng": "eight",
+       "tran": "eɪt",
+       "rus": "восемь"
+   },
+   {
+       "id": "702",
+       "eng": "village",
+       "tran": "ˈvɪl.ɪdʒ",
+       "rus": "деревня"
+   },
+   {
+       "id": "703",
+       "eng": "meet",
+       "tran": "miːt",
+       "rus": "встречать"
+   },
+   {
+       "id": "704",
+       "eng": "root",
+       "tran": "ruːt",
+       "rus": "корень"
+   },
+   {
+       "id": "705",
+       "eng": "buy",
+       "tran": "baɪ",
+       "rus": "покупать"
+   },
+   {
+       "id": "706",
+       "eng": "raise",
+       "tran": "reɪz",
+       "rus": "поднимать / повышать"
+   },
+   {
+       "id": "707",
+       "eng": "solve",
+       "tran": "sɒlv",
+       "rus": "решать"
+   },
+   {
+       "id": "708",
+       "eng": "metal",
+       "tran": "ˈmet. ə l",
+       "rus": "металл"
+   },
+   {
+       "id": "709",
+       "eng": "whether",
+       "tran": "ˈweð.ə r",
+       "rus": "будь то / ли"
+   },
+   {
+       "id": "710",
+       "eng": "push",
+       "tran": "pʊʃ",
+       "rus": "давить / нажимать"
+   },
+   {
+       "id": "711",
+       "eng": "seven",
+       "tran": "ˈsev. ə n",
+       "rus": "семь"
+   },
+   {
+       "id": "712",
+       "eng": "paragraph",
+       "tran": "ˈpær.ə.ɡrɑːf",
+       "rus": "параграф"
+   },
+   {
+       "id": "713",
+       "eng": "third",
+       "tran": "θɜːd",
+       "rus": "третий"
+   },
+   {
+       "id": "714",
+       "eng": "shall",
+       "tran": "ʃæl",
+       "rus": "должен"
+   },
+   {
+       "id": "715",
+       "eng": "held",
+       "tran": "held",
+       "rus": "держал"
+   },
+   {
+       "id": "716",
+       "eng": "hair",
+       "tran": "heə r",
+       "rus": "волосы"
+   },
+   {
+       "id": "717",
+       "eng": "describe",
+       "tran": "dɪˈskraɪb",
+       "rus": "описывать"
+   },
+   {
+       "id": "718",
+       "eng": "cook",
+       "tran": "kʊk",
+       "rus": "готовить"
+   },
+   {
+       "id": "719",
+       "eng": "floor",
+       "tran": "flɔː r",
+       "rus": "пол"
+   },
+   {
+       "id": "720",
+       "eng": "either",
+       "tran": "ˈaɪ.ðə r",
+       "rus": "или"
+   },
+   {
+       "id": "721",
+       "eng": "result",
+       "tran": "rɪˈzʌlt",
+       "rus": "результат"
+   },
+   {
+       "id": "722",
+       "eng": "burn",
+       "tran": "bɜːn",
+       "rus": "гореть / ожог"
+   },
+   {
+       "id": "723",
+       "eng": "hill",
+       "tran": "hɪl",
+       "rus": "холм"
+   },
+   {
+       "id": "724",
+       "eng": "safe",
+       "tran": "seɪf",
+       "rus": "безопасный"
+   },
+   {
+       "id": "725",
+       "eng": "cat",
+       "tran": "kæt",
+       "rus": "кот / кошка"
+   },
+   {
+       "id": "726",
+       "eng": "century",
+       "tran": "ˈsen.tʃ ə r.i",
+       "rus": "век / столетие"
+   },
+   {
+       "id": "727",
+       "eng": "consider",
+       "tran": "kənˈsɪd.ə r",
+       "rus": "рассматривать"
+   },
+   {
+       "id": "728",
+       "eng": "type",
+       "tran": "taɪp",
+       "rus": "тип / печатать"
+   },
+   {
+       "id": "729",
+       "eng": "law",
+       "tran": "lɔː",
+       "rus": "закон"
+   },
+   {
+       "id": "730",
+       "eng": "bit",
+       "tran": "bɪt",
+       "rus": "немного / часть"
+   },
+   {
+       "id": "731",
+       "eng": "coast",
+       "tran": "kəʊst",
+       "rus": "берег"
+   },
+   {
+       "id": "732",
+       "eng": "copy",
+       "tran": "ˈkɒp.i",
+       "rus": "копировать / копия"
+   },
+   {
+       "id": "733",
+       "eng": "phrase",
+       "tran": "freɪz",
+       "rus": "фраза / формулировать"
+   },
+   {
+       "id": "734",
+       "eng": "silent",
+       "tran": "ˈsaɪlənt",
+       "rus": "тихий"
+   },
+   {
+       "id": "735",
+       "eng": "tall",
+       "tran": "tɔːl",
+       "rus": "высокий"
+   },
+   {
+       "id": "736",
+       "eng": "sand",
+       "tran": "sænd",
+       "rus": "песок"
+   },
+   {
+       "id": "737",
+       "eng": "soil",
+       "tran": "sɔɪl",
+       "rus": "почва"
+   },
+   {
+       "id": "738",
+       "eng": "roll",
+       "tran": "rəʊl",
+       "rus": "вертеть"
+   },
+   {
+       "id": "739",
+       "eng": "temperature",
+       "tran": "ˈtem.prə.tʃə r",
+       "rus": "температура"
+   },
+   {
+       "id": "740",
+       "eng": "finger",
+       "tran": "ˈfɪŋ.ɡə r",
+       "rus": "палец"
+   },
+   {
+       "id": "741",
+       "eng": "industry",
+       "tran": "ˈɪn.də.stri",
+       "rus": "индустрия"
+   },
+   {
+       "id": "742",
+       "eng": "value",
+       "tran": "ˈvæl.juː",
+       "rus": "значение / стоимость / ценность"
+   },
+   {
+       "id": "743",
+       "eng": "fight",
+       "tran": "faɪt",
+       "rus": "драка / бороться"
+   },
+   {
+       "id": "744",
+       "eng": "lie",
+       "tran": "laɪ",
+       "rus": "ложь / лгать"
+   },
+   {
+       "id": "745",
+       "eng": "beat",
+       "tran": "biːt",
+       "rus": "бить / ритм"
+   },
+   {
+       "id": "746",
+       "eng": "excite",
+       "tran": "ɪkˈsaɪt",
+       "rus": "возбуждать"
+   },
+   {
+       "id": "747",
+       "eng": "natural",
+       "tran": "ˈnætʃ.ər.əl /",
+       "rus": "натуральный"
+   },
+   {
+       "id": "748",
+       "eng": "view",
+       "tran": "vjuː",
+       "rus": "вид"
+   },
+   {
+       "id": "749",
+       "eng": "sense",
+       "tran": "sens",
+       "rus": "смысл / чувство"
+   },
+   {
+       "id": "750",
+       "eng": "capital",
+       "tran": "ˈkæp.ɪ.t ə l",
+       "rus": "столица"
+   },
+   {
+       "id": "751",
+       "eng": "won’t",
+       "tran": "wəʊnt",
+       "rus": "не будет"
+   },
+   {
+       "id": "752",
+       "eng": "chair",
+       "tran": "tʃeə r",
+       "rus": "стул"
+   },
+   {
+       "id": "753",
+       "eng": "danger",
+       "tran": "ˈdeɪn.dʒə r",
+       "rus": "опасность"
+   },
+   {
+       "id": "754",
+       "eng": "fruit",
+       "tran": "fruːt",
+       "rus": "фрукт"
+   },
+   {
+       "id": "755",
+       "eng": "rich",
+       "tran": "rɪtʃ",
+       "rus": "богатый"
+   },
+   {
+       "id": "756",
+       "eng": "thick",
+       "tran": "θɪk",
+       "rus": "толстый"
+   },
+   {
+       "id": "757",
+       "eng": "soldier",
+       "tran": "ˈsəʊl.dʒə r",
+       "rus": "солдат"
+   },
+   {
+       "id": "758",
+       "eng": "process",
+       "tran": "ˈprəʊ.ses",
+       "rus": "процесс / подвергать обработке"
+   },
+   {
+       "id": "759",
+       "eng": "operate",
+       "tran": "ˈɒp. ə r.eɪt",
+       "rus": "управлять"
+   },
+   {
+       "id": "760",
+       "eng": "practice",
+       "tran": "ˈpræk.tɪs",
+       "rus": "практиковать / практика"
+   },
+   {
+       "id": "761",
+       "eng": "separate",
+       "tran": "ˈsep ə reɪt",
+       "rus": "разделять"
+   },
+   {
+       "id": "762",
+       "eng": "difficult",
+       "tran": "ˈdɪf.ɪ.k ə lt",
+       "rus": "сложный"
+   },
+   {
+       "id": "763",
+       "eng": "doctor",
+       "tran": "ˈdɒk.tə r",
+       "rus": "доктор"
+   },
+   {
+       "id": "764",
+       "eng": "please",
+       "tran": "pliːz",
+       "rus": "пожалуйста / угождать"
+   },
+   {
+       "id": "765",
+       "eng": "protect",
+       "tran": "prəˈtekt",
+       "rus": "защищать"
+   },
+   {
+       "id": "766",
+       "eng": "noon",
+       "tran": "nuːn",
+       "rus": "полдень"
+   },
+   {
+       "id": "767",
+       "eng": "crop",
+       "tran": "krɒp",
+       "rus": "обрезать / урожай"
+   },
+   {
+       "id": "768",
+       "eng": "modern",
+       "tran": "ˈmɒd. ə n",
+       "rus": "современный"
+   },
+   {
+       "id": "769",
+       "eng": "element",
+       "tran": "ˈel.ɪ.mənt",
+       "rus": "элемент"
+   },
+   {
+       "id": "770",
+       "eng": "hit",
+       "tran": "hɪt",
+       "rus": "удар / бить"
+   },
+   {
+       "id": "771",
+       "eng": "student",
+       "tran": "ˈstjuː.d ə nt",
+       "rus": "студент"
+   },
+   {
+       "id": "772",
+       "eng": "corner",
+       "tran": "ˈkɔː.nə r",
+       "rus": "угол"
+   },
+   {
+       "id": "773",
+       "eng": "party",
+       "tran": "ˈpɑː.ti",
+       "rus": "вечеринка / партия"
+   },
+   {
+       "id": "774",
+       "eng": "supply",
+       "tran": "səˈplaɪ",
+       "rus": "поставка / снабжать"
+   },
+   {
+       "id": "775",
+       "eng": "whose",
+       "tran": "huːz",
+       "rus": "чьи"
+   },
+   {
+       "id": "776",
+       "eng": "locate",
+       "tran": "ləʊˈkeɪt",
+       "rus": "размещать"
+   },
+   {
+       "id": "777",
+       "eng": "ring",
+       "tran": "rɪŋ",
+       "rus": "кольцо"
+   },
+   {
+       "id": "778",
+       "eng": "character",
+       "tran": "ˈkær.ək.tə r",
+       "rus": "персонаж / характер"
+   },
+   {
+       "id": "779",
+       "eng": "insect",
+       "tran": "ˈɪn.sekt",
+       "rus": "насекомое"
+   },
+   {
+       "id": "780",
+       "eng": "caught",
+       "tran": "kɔːt",
+       "rus": "поймал / пойманный"
+   },
+   {
+       "id": "781",
+       "eng": "period",
+       "tran": "ˈpɪə.ri.əd",
+       "rus": "период / точка"
+   },
+   {
+       "id": "782",
+       "eng": "indicate",
+       "tran": "ˈɪn.dɪ.keɪt",
+       "rus": "указывать"
+   },
+   {
+       "id": "783",
+       "eng": "radio",
+       "tran": "ˈreɪ.di.əʊ",
+       "rus": "радио"
+   },
+   {
+       "id": "784",
+       "eng": "spoke",
+       "tran": "spəʊk",
+       "rus": "говорил"
+   },
+   {
+       "id": "785",
+       "eng": "atom",
+       "tran": "ˈæt.əm",
+       "rus": "атом"
+   },
+   {
+       "id": "786",
+       "eng": "human",
+       "tran": "ˈhjuː.mən",
+       "rus": "человек"
+   },
+   {
+       "id": "787",
+       "eng": "history",
+       "tran": "ˈhɪs.t ə r.i",
+       "rus": "история"
+   },
+   {
+       "id": "788",
+       "eng": "effect",
+       "tran": "ɪˈfekt",
+       "rus": "эффект / следствие"
+   },
+   {
+       "id": "789",
+       "eng": "electric",
+       "tran": "iˈlek.trɪk",
+       "rus": "электрический"
+   },
+   {
+       "id": "790",
+       "eng": "expect",
+       "tran": "ɪkˈspekt",
+       "rus": "ожидать"
+   },
+   {
+       "id": "791",
+       "eng": "bone",
+       "tran": "bəʊn",
+       "rus": "кость"
+   },
+   {
+       "id": "792",
+       "eng": "rail",
+       "tran": "reɪl",
+       "rus": "рельс / железнодорожный путь"
+   },
+   {
+       "id": "793",
+       "eng": "imagine",
+       "tran": "ɪˈmædʒ.ɪn",
+       "rus": "представлять"
+   },
+   {
+       "id": "794",
+       "eng": "provide",
+       "tran": "prəˈvaɪd",
+       "rus": "предоставлять"
+   },
+   {
+       "id": "795",
+       "eng": "agree",
+       "tran": "əˈɡriː",
+       "rus": "соглашаться"
+   },
+   {
+       "id": "796",
+       "eng": "thus",
+       "tran": "ðʌs",
+       "rus": "таким образом"
+   },
+   {
+       "id": "797",
+       "eng": "gentle",
+       "tran": "ˈdʒen.t ə l",
+       "rus": "нежный"
+   },
+   {
+       "id": "798",
+       "eng": "woman",
+       "tran": "ˈwʊm.ən",
+       "rus": "женщина"
+   },
+   {
+       "id": "799",
+       "eng": "captain",
+       "tran": "ˈkæp.tɪn",
+       "rus": "капитан"
+   },
+   {
+       "id": "800",
+       "eng": "guess",
+       "tran": "ɡes",
+       "rus": "предположение / угадывать"
+   },
+   {
+       "id": "801",
+       "eng": "necessary",
+       "tran": "ˈnes.ə.ser.i",
+       "rus": "необходимый"
+   },
+   {
+       "id": "802",
+       "eng": "sharp",
+       "tran": "ʃɑːp",
+       "rus": "острый / умный / стильный (о человеке)"
+   },
+   {
+       "id": "803",
+       "eng": "wing",
+       "tran": "wɪŋ",
+       "rus": "крыло"
+   },
+   {
+       "id": "804",
+       "eng": "create",
+       "tran": "kriˈeɪt",
+       "rus": "создавать"
+   },
+   {
+       "id": "805",
+       "eng": "neighbour",
+       "tran": "ˈneɪ.bə r",
+       "rus": "сосед"
+   },
+   {
+       "id": "806",
+       "eng": "wash",
+       "tran": "wɒʃ",
+       "rus": "мыть"
+   },
+   {
+       "id": "807",
+       "eng": "bat",
+       "tran": "bæt",
+       "rus": "летучая мышь / бита"
+   },
+   {
+       "id": "808",
+       "eng": "rather",
+       "tran": "ˈrɑː.ðə r",
+       "rus": "скорее"
+   },
+   {
+       "id": "809",
+       "eng": "crowd",
+       "tran": "kraʊd",
+       "rus": "толпа"
+   },
+   {
+       "id": "810",
+       "eng": "corn",
+       "tran": "kɔːn",
+       "rus": "кукуруза"
+   },
+   {
+       "id": "811",
+       "eng": "compare",
+       "tran": "kəmˈpeə r",
+       "rus": "сравнивать"
+   },
+   {
+       "id": "812",
+       "eng": "poem",
+       "tran": "ˈpəʊ.ɪm",
+       "rus": "стих"
+   },
+   {
+       "id": "813",
+       "eng": "string",
+       "tran": "strɪŋ",
+       "rus": "струна"
+   },
+   {
+       "id": "814",
+       "eng": "bell",
+       "tran": "bel",
+       "rus": "колокол"
+   },
+   {
+       "id": "815",
+       "eng": "depend",
+       "tran": "dɪˈpend",
+       "rus": "зависеть"
+   },
+   {
+       "id": "816",
+       "eng": "meat",
+       "tran": "miːt",
+       "rus": "мясо"
+   },
+   {
+       "id": "817",
+       "eng": "rub",
+       "tran": "rʌb",
+       "rus": "тереть"
+   },
+   {
+       "id": "818",
+       "eng": "tube",
+       "tran": "tʃuːb",
+       "rus": "трубка / метро (в Лондоне)"
+   },
+   {
+       "id": "819",
+       "eng": "famous",
+       "tran": "ˈfeɪ.məs",
+       "rus": "известный"
+   },
+   {
+       "id": "820",
+       "eng": "dollar",
+       "tran": "ˈdɒl.ə r",
+       "rus": "доллар"
+   },
+   {
+       "id": "821",
+       "eng": "stream",
+       "tran": "striːm",
+       "rus": "поток / течь"
+   },
+   {
+       "id": "822",
+       "eng": "fear",
+       "tran": "fɪə r",
+       "rus": "страх / бояться"
+   },
+   {
+       "id": "823",
+       "eng": "sight",
+       "tran": "saɪt",
+       "rus": "взгляд / вид / зрение"
+   },
+   {
+       "id": "824",
+       "eng": "thin",
+       "tran": "θɪn",
+       "rus": "тонкий"
+   },
+   {
+       "id": "825",
+       "eng": "triangle",
+       "tran": "ˈtraɪ.æŋ.ɡ ə l",
+       "rus": "треугольник"
+   },
+   {
+       "id": "826",
+       "eng": "planet",
+       "tran": "ˈplæn.ɪt",
+       "rus": "планета"
+   },
+   {
+       "id": "827",
+       "eng": "hurry",
+       "tran": "ˈhʌr.i",
+       "rus": "торопиться / спешка"
+   },
+   {
+       "id": "828",
+       "eng": "chief",
+       "tran": "tʃiːf",
+       "rus": "шеф"
+   },
+   {
+       "id": "829",
+       "eng": "colony",
+       "tran": "ˈkɒl.ə.ni",
+       "rus": "колония"
+   },
+   {
+       "id": "830",
+       "eng": "clock",
+       "tran": "klɒk",
+       "rus": "часы"
+   },
+   {
+       "id": "831",
+       "eng": "mine",
+       "tran": "maɪn",
+       "rus": "мой"
+   },
+   {
+       "id": "832",
+       "eng": "tie",
+       "tran": "taɪ",
+       "rus": "галстук / завязывать"
+   },
+   {
+       "id": "833",
+       "eng": "enter",
+       "tran": "ˈen.tə r",
+       "rus": "вход / входить"
+   },
+   {
+       "id": "834",
+       "eng": "major",
+       "tran": "ˈmeɪ.dʒə r",
+       "rus": "майор / основной"
+   },
+   {
+       "id": "835",
+       "eng": "fresh",
+       "tran": "freʃ",
+       "rus": "свежий"
+   },
+   {
+       "id": "836",
+       "eng": "search",
+       "tran": "sɜːtʃ",
+       "rus": "поиск / искать"
+   },
+   {
+       "id": "837",
+       "eng": "send",
+       "tran": "send",
+       "rus": "посылать"
+   },
+   {
+       "id": "838",
+       "eng": "yellow",
+       "tran": "ˈjel.əʊ",
+       "rus": "желтый"
+   },
+   {
+       "id": "839",
+       "eng": "gun",
+       "tran": "ɡʌn",
+       "rus": "пистолет / ружье"
+   },
+   {
+       "id": "840",
+       "eng": "allow",
+       "tran": "əˈlaʊ",
+       "rus": "позволять"
+   },
+   {
+       "id": "841",
+       "eng": "print",
+       "tran": "prɪnt",
+       "rus": "печать / печатать"
+   },
+   {
+       "id": "842",
+       "eng": "dead",
+       "tran": "ded",
+       "rus": "мертвый"
+   },
+   {
+       "id": "843",
+       "eng": "spot",
+       "tran": "spɒt",
+       "rus": "место / пятно"
+   },
+   {
+       "id": "844",
+       "eng": "desert",
+       "tran": "ˈdez.ət",
+       "rus": "пустыня"
+   },
+   {
+       "id": "845",
+       "eng": "suit",
+       "tran": "suːt",
+       "rus": "костюм / подходить"
+   },
+   {
+       "id": "846",
+       "eng": "current",
+       "tran": "ˈkʌr. ə nt",
+       "rus": "текущий"
+   },
+   {
+       "id": "847",
+       "eng": "lift",
+       "tran": "lɪft",
+       "rus": "поднимать / лифт ( брит. )"
+   },
+   {
+       "id": "848",
+       "eng": "rose",
+       "tran": "rəʊz",
+       "rus": "роза"
+   },
+   {
+       "id": "849",
+       "eng": "arrive",
+       "tran": "əˈraɪv",
+       "rus": "прибывать"
+   },
+   {
+       "id": "850",
+       "eng": "master",
+       "tran": "ˈmɑː.stə r",
+       "rus": "мастер / главный / справляться"
+   },
+   {
+       "id": "851",
+       "eng": "track",
+       "tran": "træk",
+       "rus": "трек / след"
+   },
+   {
+       "id": "852",
+       "eng": "parent",
+       "tran": "ˈpeə.r ə nt",
+       "rus": "родитель"
+   },
+   {
+       "id": "853",
+       "eng": "shore",
+       "tran": "ʃɔː r",
+       "rus": "побережье"
+   },
+   {
+       "id": "854",
+       "eng": "division",
+       "tran": "dɪˈvɪʒ. ə n",
+       "rus": "деление"
+   },
+   {
+       "id": "855",
+       "eng": "sheet",
+       "tran": "ʃiːt",
+       "rus": "лист / простынь"
+   },
+   {
+       "id": "856",
+       "eng": "substance",
+       "tran": "ˈsʌb.st ə ns",
+       "rus": "вещество"
+   },
+   {
+       "id": "857",
+       "eng": "favour",
+       "tran": "ˈfeɪ.və r",
+       "rus": "одолжение"
+   },
+   {
+       "id": "858",
+       "eng": "connect",
+       "tran": "kəˈnekt",
+       "rus": "соединять"
+   },
+   {
+       "id": "859",
+       "eng": "post",
+       "tran": "pəʊst",
+       "rus": "почта / после"
+   },
+   {
+       "id": "860",
+       "eng": "spend",
+       "tran": "spend",
+       "rus": "тратить"
+   },
+   {
+       "id": "861",
+       "eng": "chord",
+       "tran": "kɔːd",
+       "rus": "аккорд"
+   },
+   {
+       "id": "862",
+       "eng": "fat",
+       "tran": "fæt",
+       "rus": "жир / жирный"
+   },
+   {
+       "id": "863",
+       "eng": "glad",
+       "tran": "ɡlæd",
+       "rus": "рад"
+   },
+   {
+       "id": "864",
+       "eng": "original",
+       "tran": "əˈrɪdʒ. ə n. ə l",
+       "rus": "оригинальный"
+   },
+   {
+       "id": "865",
+       "eng": "share",
+       "tran": "ʃeə r",
+       "rus": "делиться"
+   },
+   {
+       "id": "866",
+       "eng": "station",
+       "tran": "ˈsteɪ.ʃ ə n",
+       "rus": "станция"
+   },
+   {
+       "id": "867",
+       "eng": "dad",
+       "tran": "dæd",
+       "rus": "папа"
+   },
+   {
+       "id": "868",
+       "eng": "bread",
+       "tran": "bred",
+       "rus": "хлеб"
+   },
+   {
+       "id": "869",
+       "eng": "charge",
+       "tran": "tʃɑːdʒ",
+       "rus": "заряд / заряжать"
+   },
+   {
+       "id": "870",
+       "eng": "proper",
+       "tran": "ˈprɒp.ə r",
+       "rus": "правильный"
+   },
+   {
+       "id": "871",
+       "eng": "bar",
+       "tran": "bɑː r",
+       "rus": "бар"
+   },
+   {
+       "id": "872",
+       "eng": "offer",
+       "tran": "ˈɒf.ə r",
+       "rus": "предлагать / предложение"
+   },
+   {
+       "id": "873",
+       "eng": "segment",
+       "tran": "ˈseɡ.mənt",
+       "rus": "часть / сегмент"
+   },
+   {
+       "id": "874",
+       "eng": "slave",
+       "tran": "sleɪv",
+       "rus": "раб"
+   },
+   {
+       "id": "875",
+       "eng": "duck",
+       "tran": "dʌk",
+       "rus": "утка"
+   },
+   {
+       "id": "876",
+       "eng": "instant",
+       "tran": "ˈɪn.stənt",
+       "rus": "мгновенный"
+   },
+   {
+       "id": "877",
+       "eng": "market",
+       "tran": "ˈmɑː.kɪt",
+       "rus": "рынок"
+   },
+   {
+       "id": "878",
+       "eng": "degree",
+       "tran": "dɪˈɡriː",
+       "rus": "температура"
+   },
+   {
+       "id": "879",
+       "eng": "populate",
+       "tran": "ˈpɒp.jə.leɪt",
+       "rus": "населять"
+   },
+   {
+       "id": "880",
+       "eng": "education",
+       "tran": "ˌedʒ.uˈkeɪ.ʃ ə n",
+       "rus": "образование"
+   },
+   {
+       "id": "881",
+       "eng": "dear",
+       "tran": "dɪə r",
+       "rus": "дорогая"
+   },
+   {
+       "id": "882",
+       "eng": "enemy",
+       "tran": "ˈen.ə.mi",
+       "rus": "враг"
+   },
+   {
+       "id": "883",
+       "eng": "reply",
+       "tran": "rɪˈplaɪ",
+       "rus": "ответ / отвечать"
+   },
+   {
+       "id": "884",
+       "eng": "drink",
+       "tran": "drɪŋk",
+       "rus": "напиток / пить"
+   },
+   {
+       "id": "885",
+       "eng": "occur",
+       "tran": "əˈkɜː r",
+       "rus": "происходить"
+   },
+   {
+       "id": "886",
+       "eng": "support",
+       "tran": "səˈpɔːt",
+       "rus": "поддержка / поддерживать"
+   },
+   {
+       "id": "887",
+       "eng": "speech",
+       "tran": "spiːtʃ",
+       "rus": "речь"
+   },
+   {
+       "id": "888",
+       "eng": "nature",
+       "tran": "ˈneɪ.tʃə r",
+       "rus": "природа"
+   },
+   {
+       "id": "889",
+       "eng": "range",
+       "tran": "reɪndʒ",
+       "rus": "диапазон"
+   },
+   {
+       "id": "890",
+       "eng": "steam",
+       "tran": "stiːm",
+       "rus": "пар"
+   },
+   {
+       "id": "891",
+       "eng": "motion",
+       "tran": "ˈməʊ.ʃ ə n",
+       "rus": "движение"
+   },
+   {
+       "id": "892",
+       "eng": "path",
+       "tran": "pɑːθ",
+       "rus": "путь"
+   },
+   {
+       "id": "893",
+       "eng": "liquid",
+       "tran": "ˈlɪk.wɪd",
+       "rus": "жидкость"
+   },
+   {
+       "id": "894",
+       "eng": "violence",
+       "tran": "ˈvaɪə.l ə ns",
+       "rus": "жестокость"
+   },
+   {
+       "id": "895",
+       "eng": "meant",
+       "tran": "ment",
+       "rus": "значил"
+   },
+   {
+       "id": "896",
+       "eng": "quotient",
+       "tran": "ˈkwəʊ.ʃ ə nt",
+       "rus": "частное"
+   },
+   {
+       "id": "897",
+       "eng": "teeth",
+       "tran": "tiːθ",
+       "rus": "зубы"
+   },
+   {
+       "id": "898",
+       "eng": "shell",
+       "tran": "ʃel",
+       "rus": "ракушка"
+   },
+   {
+       "id": "899",
+       "eng": "neck",
+       "tran": "nek",
+       "rus": "шея"
+   },
+   {
+       "id": "900",
+       "eng": "oxygen",
+       "tran": "ˈɒk.sɪ.dʒən",
+       "rus": "кислород"
+   },
+   {
+       "id": "901",
+       "eng": "sugar",
+       "tran": "ˈʃʊɡ.ə r",
+       "rus": "сахар"
+   },
+   {
+       "id": "902",
+       "eng": "death",
+       "tran": "deθ",
+       "rus": "смерть"
+   },
+   {
+       "id": "903",
+       "eng": "pretty",
+       "tran": "ˈprɪt.i",
+       "rus": "красивый / довольно"
+   },
+   {
+       "id": "904",
+       "eng": "skill",
+       "tran": "skɪl",
+       "rus": "умение"
+   },
+   {
+       "id": "905",
+       "eng": "women",
+       "tran": "ˈwɪm.ɪn",
+       "rus": "женщины"
+   },
+   {
+       "id": "906",
+       "eng": "season",
+       "tran": "ˈsiː.z ə n",
+       "rus": "сезон / время года"
+   },
+   {
+       "id": "907",
+       "eng": "solution",
+       "tran": "səˈluː.ʃ ə n",
+       "rus": "решение"
+   },
+   {
+       "id": "908",
+       "eng": "magnet",
+       "tran": "ˈmæɡ.nət",
+       "rus": "магнит"
+   },
+   {
+       "id": "909",
+       "eng": "silver",
+       "tran": "ˈsɪl.və r",
+       "rus": "серебро"
+   },
+   {
+       "id": "910",
+       "eng": "thanks",
+       "tran": "θæŋks",
+       "rus": "спасибо"
+   },
+   {
+       "id": "911",
+       "eng": "lunch",
+       "tran": "lʌntʃ",
+       "rus": "ужин"
+   },
+   {
+       "id": "912",
+       "eng": "match",
+       "tran": "mætʃ",
+       "rus": "совпадать / матч"
+   },
+   {
+       "id": "913",
+       "eng": "treat",
+       "tran": "triːt",
+       "rus": "угощение / обращаться"
+   },
+   {
+       "id": "914",
+       "eng": "especially",
+       "tran": "ɪˈspeʃ. ə l.i",
+       "rus": "особенно"
+   },
+   {
+       "id": "915",
+       "eng": "fail",
+       "tran": "feɪl",
+       "rus": "провал / терпеть провал"
+   },
+   {
+       "id": "916",
+       "eng": "afraid",
+       "tran": "əˈfreɪd",
+       "rus": "испуганный"
+   },
+   {
+       "id": "917",
+       "eng": "huge",
+       "tran": "hjuːdʒ",
+       "rus": "огромный"
+   },
+   {
+       "id": "918",
+       "eng": "sister",
+       "tran": "ˈsɪs.tə r",
+       "rus": "сестра"
+   },
+   {
+       "id": "919",
+       "eng": "steel",
+       "tran": "stiːl",
+       "rus": "сталь"
+   },
+   {
+       "id": "920",
+       "eng": "discuss",
+       "tran": "dɪˈskʌs",
+       "rus": "обсуждать"
+   },
+   {
+       "id": "921",
+       "eng": "forward",
+       "tran": "ˈfɔː.wəd",
+       "rus": "вперед"
+   },
+   {
+       "id": "922",
+       "eng": "similar",
+       "tran": "ˈsɪm.ɪ.lə r",
+       "rus": "похожий"
+   },
+   {
+       "id": "923",
+       "eng": "guide",
+       "tran": "ɡaɪd",
+       "rus": "руководство / направлять"
+   },
+   {
+       "id": "924",
+       "eng": "experience",
+       "tran": "ɪkˈspɪə.ri.əns",
+       "rus": "опыт"
+   },
+   {
+       "id": "925",
+       "eng": "score",
+       "tran": "skɔː r",
+       "rus": "очки / счет"
+   },
+   {
+       "id": "926",
+       "eng": "apple",
+       "tran": "ˈæp. ə l",
+       "rus": "яблоко"
+   },
+   {
+       "id": "927",
+       "eng": "evidence",
+       "tran": "ˈev.ɪ.d ə ns",
+       "rus": "доказательства"
+   },
+   {
+       "id": "928",
+       "eng": "message",
+       "tran": "ˈmes.ɪdʒ",
+       "rus": "сообщение"
+   },
+   {
+       "id": "929",
+       "eng": "movie",
+       "tran": "ˈmuː.vi",
+       "rus": "фильм ( амер. )"
+   },
+   {
+       "id": "930",
+       "eng": "coat",
+       "tran": "kəʊt",
+       "rus": "пальто"
+   },
+   {
+       "id": "931",
+       "eng": "mass",
+       "tran": "mæs",
+       "rus": "масса"
+   },
+   {
+       "id": "932",
+       "eng": "card",
+       "tran": "kɑːd",
+       "rus": "карта"
+   },
+   {
+       "id": "933",
+       "eng": "band",
+       "tran": "bænd",
+       "rus": "группа"
+   },
+   {
+       "id": "934",
+       "eng": "rope",
+       "tran": "rəʊp",
+       "rus": "веревка"
+   },
+   {
+       "id": "935",
+       "eng": "slip",
+       "tran": "slɪp",
+       "rus": "скользить"
+   },
+   {
+       "id": "936",
+       "eng": "win",
+       "tran": "wɪn",
+       "rus": "побеждать"
+   },
+   {
+       "id": "937",
+       "eng": "dream",
+       "tran": "driːm",
+       "rus": "мечта / мечтать / сон"
+   },
+   {
+       "id": "938",
+       "eng": "evening",
+       "tran": "ˈiːv.nɪŋ",
+       "rus": "вечер"
+   },
+   {
+       "id": "939",
+       "eng": "condition",
+       "tran": "kənˈdɪʃ. ə n",
+       "rus": "состояние"
+   },
+   {
+       "id": "940",
+       "eng": "feed",
+       "tran": "fiːd",
+       "rus": "кормить"
+   },
+   {
+       "id": "941",
+       "eng": "tool",
+       "tran": "tuːl",
+       "rus": "инструмент"
+   },
+   {
+       "id": "942",
+       "eng": "total",
+       "tran": "ˈtəʊ.t ə l",
+       "rus": "сумма"
+   },
+   {
+       "id": "943",
+       "eng": "basic",
+       "tran": "ˈbeɪ.sɪk",
+       "rus": "базовый"
+   },
+   {
+       "id": "944",
+       "eng": "smell",
+       "tran": "smel",
+       "rus": "запах"
+   },
+   {
+       "id": "945",
+       "eng": "valley",
+       "tran": "ˈvæl.i",
+       "rus": "долина"
+   },
+   {
+       "id": "946",
+       "eng": "not",
+       "tran": "nɒt",
+       "rus": "не"
+   },
+   {
+       "id": "947",
+       "eng": "double",
+       "tran": "ˈdʌb.əl",
+       "rus": "двойной / вдвойне / двойник"
+   },
+   {
+       "id": "948",
+       "eng": "seat",
+       "tran": "siːt",
+       "rus": "место"
+   },
+   {
+       "id": "949",
+       "eng": "continue",
+       "tran": "kənˈtɪn.juː",
+       "rus": "продолжать"
+   },
+   {
+       "id": "950",
+       "eng": "news",
+       "tran": "njuːz",
+       "rus": "новости"
+   },
+   {
+       "id": "951",
+       "eng": "police",
+       "tran": "pəˈliːs",
+       "rus": "полиция"
+   },
+   {
+       "id": "952",
+       "eng": "hat",
+       "tran": "hæt",
+       "rus": "шляпа"
+   },
+   {
+       "id": "953",
+       "eng": "sell",
+       "tran": "sel",
+       "rus": "продавать"
+   },
+   {
+       "id": "954",
+       "eng": "success",
+       "tran": "səkˈses",
+       "rus": "успех"
+   },
+   {
+       "id": "955",
+       "eng": "company",
+       "tran": "ˈkʌm.pə.ni",
+       "rus": "компания"
+   },
+   {
+       "id": "956",
+       "eng": "security",
+       "tran": "sɪˈkjʊə.rə.ti",
+       "rus": "безопасность / охрана"
+   },
+   {
+       "id": "957",
+       "eng": "event",
+       "tran": "ɪˈvent",
+       "rus": "событие"
+   },
+   {
+       "id": "958",
+       "eng": "particular",
+       "tran": "pəˈtɪk.jə.lə r",
+       "rus": "особенный / конкретный"
+   },
+   {
+       "id": "959",
+       "eng": "deal",
+       "tran": "diːl",
+       "rus": "сделка / часть / разбираться"
+   },
+   {
+       "id": "960",
+       "eng": "swim",
+       "tran": "swɪm",
+       "rus": "плавать"
+   },
+   {
+       "id": "961",
+       "eng": "term",
+       "tran": "tɜːm",
+       "rus": "срок / семестр / термин"
+   },
+   {
+       "id": "962",
+       "eng": "opposite",
+       "tran": "ˈɒp.ə.zɪt",
+       "rus": "напротив / противоположный"
+   },
+   {
+       "id": "963",
+       "eng": "wife",
+       "tran": "waɪf",
+       "rus": "жена"
+   },
+   {
+       "id": "964",
+       "eng": "shoes",
+       "tran": "ʃuːz",
+       "rus": "обувь / туфли"
+   },
+   {
+       "id": "965",
+       "eng": "shoulders",
+       "tran": "ˈʃəʊl.də r z",
+       "rus": "плечи"
+   },
+   {
+       "id": "966",
+       "eng": "spread",
+       "tran": "spred",
+       "rus": "распространение / распространять"
+   },
+   {
+       "id": "967",
+       "eng": "arrange",
+       "tran": "əˈreɪndʒ",
+       "rus": "организовывать"
+   },
+   {
+       "id": "968",
+       "eng": "camp",
+       "tran": "kæmp",
+       "rus": "лагерь"
+   },
+   {
+       "id": "969",
+       "eng": "invent",
+       "tran": "ɪnˈvent",
+       "rus": "изобретать"
+   },
+   {
+       "id": "970",
+       "eng": "cotton",
+       "tran": "ˈkɒt. ə n",
+       "rus": "хлопок"
+   },
+   {
+       "id": "971",
+       "eng": "born",
+       "tran": "bɔːn",
+       "rus": "родиться"
+   },
+   {
+       "id": "972",
+       "eng": "determine",
+       "tran": "dɪˈtɜː.mɪn",
+       "rus": "определять"
+   },
+   {
+       "id": "973",
+       "eng": "quarter",
+       "tran": "ˈkwɔː.tə r",
+       "rus": "четверть"
+   },
+   {
+       "id": "974",
+       "eng": "nine",
+       "tran": "naɪn",
+       "rus": "девять"
+   },
+   {
+       "id": "975",
+       "eng": "remove",
+       "tran": "rɪˈmuːv",
+       "rus": "удалять"
+   },
+   {
+       "id": "976",
+       "eng": "noise",
+       "tran": "nɔɪz",
+       "rus": "шум"
+   },
+   {
+       "id": "977",
+       "eng": "level",
+       "tran": "ˈlev. ə l",
+       "rus": "уровень"
+   },
+   {
+       "id": "978",
+       "eng": "chance",
+       "tran": "tʃɑːns",
+       "rus": "шанс"
+   },
+   {
+       "id": "979",
+       "eng": "gather",
+       "tran": "ˈɡæð.ə r",
+       "rus": "собирать"
+   },
+   {
+       "id": "980",
+       "eng": "shop",
+       "tran": "ʃɒp",
+       "rus": "магазин ( брит. )"
+   },
+   {
+       "id": "981",
+       "eng": "stretch",
+       "tran": "stretʃ",
+       "rus": "растягивать"
+   },
+   {
+       "id": "982",
+       "eng": "throw",
+       "tran": "θrəʊ",
+       "rus": "бросать"
+   },
+   {
+       "id": "983",
+       "eng": "shine",
+       "tran": "ʃaɪn",
+       "rus": "сиять"
+   },
+   {
+       "id": "984",
+       "eng": "property",
+       "tran": "ˈprɒp.ə.ti",
+       "rus": "собственность"
+   },
+   {
+       "id": "985",
+       "eng": "issue",
+       "tran": "ˈɪʃ.uː",
+       "rus": "проблема"
+   },
+   {
+       "id": "986",
+       "eng": "legal",
+       "tran": "ˈliː.ɡ ə l",
+       "rus": "законный"
+   },
+   {
+       "id": "987",
+       "eng": "select",
+       "tran": "sɪˈlekt",
+       "rus": "выбирать"
+   },
+   {
+       "id": "988",
+       "eng": "wrong",
+       "tran": "rɒŋ",
+       "rus": "неправильный"
+   },
+   {
+       "id": "989",
+       "eng": "gray",
+       "tran": "ɡreɪ",
+       "rus": "серый"
+   },
+   {
+       "id": "990",
+       "eng": "repeat",
+       "tran": "rɪˈpiːt",
+       "rus": "повторять"
+   },
+   {
+       "id": "991",
+       "eng": "require",
+       "tran": "rɪˈkwaɪə r",
+       "rus": "требоваться"
+   },
+   {
+       "id": "992",
+       "eng": "broad",
+       "tran": "brɔːd",
+       "rus": "широкий"
+   },
+   {
+       "id": "993",
+       "eng": "prepare",
+       "tran": "prɪˈpeə r",
+       "rus": "подготавливать"
+   },
+   {
+       "id": "994",
+       "eng": "salt",
+       "tran": "sɒlt",
+       "rus": "соль / соленый"
+   },
+   {
+       "id": "995",
+       "eng": "nose",
+       "tran": "nəʊz",
+       "rus": "нос"
+   },
+   {
+       "id": "996",
+       "eng": "plural",
+       "tran": "ˈplʊə.r ə l",
+       "rus": "множественное число"
+   },
+   {
+       "id": "997",
+       "eng": "anger",
+       "tran": "ˈæŋ.ɡə r",
+       "rus": "гнев"
+   },
+   {
+       "id": "998",
+       "eng": "claim",
+       "tran": "kleɪm",
+       "rus": "запрос / требовать"
+   },
+   {
+       "id": "999",
+       "eng": "price",
+       "tran": "praɪs",
+       "rus": "цена"
+   },
+   {
+        "id": "1000",
+        "eng": "program",
+        "tran": "ˈprəʊɡræm",
+        "rus": "программа"
+   },
+   {
+        "id": "1001",
+        "eng": "biology",
+        "tran": "baɪˈɑːlədʒɪ",
+        "rus": "биология"
+   },
+   {
+        "id": "1002",
+        "eng": "plate",
+        "tran": "pleɪt",
+        "rus": "тарелка"
+   }
+]
