@@ -11,9 +11,9 @@ function App() {
   const [status, setStatus] = useState('')
   const tts = window.speechSynthesis;
   let voices = tts.getVoices()
-  voices = voices.filter(voice =>{
-    return voice.lang.includes('en')
-  })
+  // voices = voices.filter(voice =>{
+  //   return voice.lang.includes('en')
+  // })
   console.log(voices)
 
   const countWords = 8
