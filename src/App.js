@@ -44,7 +44,7 @@ function App() {
 
   const voice = async (word) =>{
     const toSpeak = new SpeechSynthesisUtterance(word)
-    console.log(indexVoice)
+    toSpeak.lang = 'en-US'
     toSpeak.voice = voices[indexVoice]
     tts.speak(toSpeak)
   }
@@ -130,3 +130,5 @@ function App() {
 }
 
 export default App;
+
+
