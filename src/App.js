@@ -12,7 +12,7 @@ function App() {
   const tts = window.speechSynthesis;
   let voices = tts.getVoices()
   voices = voices.filter(voice =>{
-    return voice.lang === "en-US" || voice.lang === "en-GB"
+    return voice.lang.includes('en')
   })
   console.log(voices)
 
