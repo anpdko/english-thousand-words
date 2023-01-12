@@ -6,10 +6,15 @@ function App() {
   const [words, setWords] = useState(DataWords)
   const [wordList, serWordList] = useState([]) 
   const [countError, setCountError] = useState(0) 
+  const [indexVoice, setIndexVoice] = useState(0)  
   const [idWord, setIdWord] = useState('')  
   const [status, setStatus] = useState('')
   const tts = window.speechSynthesis;
-  const voices = tts.getVoices()
+  let voices = tts.getVoices()
+  voices = voices.filter(voice =>{
+    return voice.lang === "en-US" || voice.lang === "en-GB"
+  })
+  console.log(voices)
 
   const countWords = 8
 
@@ -39,7 +44,8 @@ function App() {
 
   const voice = async (word) =>{
     const toSpeak = new SpeechSynthesisUtterance(word)
-    toSpeak.voice = voices[5]
+    console.log(indexVoice)
+    toSpeak.voice = voices[indexVoice]
     tts.speak(toSpeak)
   }
 
@@ -63,6 +69,19 @@ function App() {
   return (
     <div className="App">
       <header className="header">
+          <p 
+            onClick={()=>{
+              if(indexVoice < voices.length-1){
+                setIndexVoice(indexVoice + 1)
+              }
+              else{
+                setIndexVoice(0)
+              }
+            }}
+            className='broadcast'
+          >
+            {indexVoice + 1}<i className="bi bi-broadcast"></i>
+          </p>
         <div className='info'>
           <p className='count'>
             {1000-Number(words.length)}
