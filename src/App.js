@@ -1,6 +1,7 @@
 import './App.css';
 import React, {useEffect, useState, useCallback} from 'react'
 import DataWords from './data/words.json'
+import { Welcome } from './components';
 
 function App() {
   const [words, setWords] = useState(DataWords)
@@ -85,6 +86,7 @@ function App() {
 
   return (
     <div className="App">
+      <Welcome/>
       <header className="header">
           <p onClick={changeVoice} className='broadcast'>
             {indexVoice + 1}
