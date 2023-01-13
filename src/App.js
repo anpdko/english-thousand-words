@@ -11,6 +11,8 @@ function App() {
   const [status, setStatus] = useState('')
   const [voices, setVoices] = useState([])
   const tts = window.speechSynthesis;
+  const countWords = 8
+
 
   useEffect(()=>{
     let voices = tts.getVoices()
@@ -19,8 +21,6 @@ function App() {
     }))
   }, [tts])
 
-  const countWords = 8
-
   const rundomWords = useCallback(() =>{
     const result = [];
     for(let i = 0; i < countWords; i++) {
@@ -28,7 +28,6 @@ function App() {
     }
     const index = Math.floor(Math.random() * countWords)
     setIdWord(result[index].id)
-
     return result;
   }, [words])
 
@@ -45,7 +44,7 @@ function App() {
     }))
   }
 
-  const voice = async (word) =>{
+  const voice = (word) =>{
     const toSpeak = new SpeechSynthesisUtterance(word)
     toSpeak.lang = 'en-US'
     toSpeak.rate = 0.7
@@ -55,9 +54,7 @@ function App() {
   }
 
   const changeAnswer = (id, word) => {
-
     voice(word)
-
     if(id === idWord){
       setStatus('next')
       setWordStatus(id, 'true')
@@ -71,27 +68,32 @@ function App() {
     }
   }
 
+  const next = () => {
+    if(status === 'next'){
+      setWords(words.filter(word => {
+        return idWord !== word.id
+      }))
+      serWordList(rundomWords())
+      setStatus('')
+    }
+  }
+
+  const changeVoice = () => {
+    const newIndex = indexVoice<voices.length-1?indexVoice+1:0
+    setIndexVoice(newIndex)
+  }
+
   return (
     <div className="App">
       <header className="header">
-          <p 
-            onClick={()=>{
-              if(indexVoice < voices.length-1){
-                setIndexVoice(indexVoice + 1)
-              }
-              else{
-                setIndexVoice(0)
-              }
-            }}
-            className='broadcast'
-          >
-            {indexVoice + 1}<i className="bi bi-broadcast"></i>
+          <p onClick={changeVoice} className='broadcast'>
+            {indexVoice + 1}
+            <i className="bi bi-broadcast"></i>
           </p>
         <div className='info'>
           <p className='count'>
             {1000-Number(words.length)}
-          </p> 
-          <p>/</p>
+          </p>/
           <p className='error'>{countError}</p>
         </div>
         <h2 className="main_word">
@@ -117,16 +119,7 @@ function App() {
         )}
       </div>
       <div className='btns'>
-        <button  onClick={()=>{
-          if(status === 'next'){
-            setWords(words.filter(word => {
-              return idWord !== word.id
-            }))
-            serWordList(rundomWords())
-            setStatus('')
-          }
-        }} 
-        className={`btn ${status}`}>
+        <button  onClick={next} className={`btn ${status}`}>
             Дальше
         </button>
       </div>
@@ -136,5 +129,3 @@ function App() {
 }
 
 export default App;
-
-
