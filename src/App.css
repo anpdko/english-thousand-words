@@ -55,7 +55,7 @@ body{
 }
 .info p {
    font-size: 0.8rem;
-   margin: 10px 0;
+   margin-block: 8px 5px;
 }
 
 .info .count{
@@ -87,8 +87,8 @@ body{
    align-items: center;
    justify-content: center;
    background: #4f535c;
-   border-radius: 10px;
-   box-shadow: 0 0 20px rgba(0, 0, 0, 0.3);
+   border-radius: 8px;
+   box-shadow: 0 0 15px rgba(0, 0, 0, 0.5);
    cursor: pointer;
 }
 
@@ -122,7 +122,7 @@ body{
    font-size: 1rem;
    padding: 25px 50px;
    background: #4f535c;
-   border-radius: 5px;
+   border-radius: 8px;
    cursor: pointer;
    outline: none;
    border: 0;
