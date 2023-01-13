@@ -36,9 +36,18 @@ function App() {
     serWordList(rundomWords())
   }, [rundomWords])
 
+  const setWordError = (id) => {
+    wordList.forEach(word => {
+      const isError = word?.status === 'false'
+      if(word.id === id && !isError){
+        setCountError(countError + 1)
+      }
+    })
+  }
+
   const setWordStatus = (id, status) => {
     serWordList(wordList.map(word => {
-      if(word.id === id){
+      if(word.id === id) {
         return {...word, status: status}
       }
       return word
@@ -50,7 +59,6 @@ function App() {
     toSpeak.lang = 'en-US'
     toSpeak.rate = 0.7
     toSpeak.voice = voices[indexVoice]
-    console.log(toSpeak)
     tts.speak(toSpeak)
   }
 
@@ -64,8 +72,8 @@ function App() {
       if(status !== 'next'){
         setStatus('err')
       }
+      setWordError(id)
       setWordStatus(id, 'false')
-      setCountError(countError + 1)
     }
   }
 

@@ -549,7 +549,7 @@ arm [ ɑːm ] — рука
 wide [ waɪd ] — широкий / повсюду
 sail [ seɪl ] — паруса / плавать
 material [ məˈtɪə.ri.əl ] — материал
-fraction [ ˈfræk.ʃ ə n ] — доля
+fraction [ ˈfræk.ʃ ə n ] — дробная часть
 forest [ ˈfɒr.ɪst ] — лес
 sit [ sɪt ] — сидеть
 race [ reɪs ] — гонка / раса
