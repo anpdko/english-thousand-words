@@ -87,7 +87,6 @@ function App() {
     <div className="App">
       <header className="header">
           <p onClick={changeVoice} className='broadcast'>
-            <span>sound</span> 
             {indexVoice + 1}
             <i className="bi bi-broadcast"></i>
           </p>
